@@ -6,7 +6,8 @@ COMMITprefix:= Flu Hosp data generated on
 COMMITsuffix:=$(shell date +"%Y-%m-%d")
 
 COMMIT:=$(COMMITprefix) $(COMMITsuffix)
-
+git:
+	git checkout dev
 runall: preprocess build git
 
 preprocess:
