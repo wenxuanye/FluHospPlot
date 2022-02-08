@@ -31,7 +31,7 @@ jobs:
       #     username: ${{ secrets.MAIL_USERNAME }}
       #     password: ${{ secrets.MAIL_PASSWORD }}
       #     subject: CSDN Report
-      #     body: "Test automate python code running"
+      #     body: "Update "
       #     to: ${{ secrets.RECEIVER }}
       #     from: GitHub Actions
       #     content_type: text/plain
