@@ -2,7 +2,7 @@
 import datetime
 
 from matplotlib.pyplot import arrow
-from adjustText import adjust_text
+# from adjustText import adjust_text
 
 class visualize(object):
     def __init__(self,io):
