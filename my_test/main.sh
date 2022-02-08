@@ -7,3 +7,7 @@ CSDN_ID="sculpta"
 
 python3 preprocess.py
 python3 build.py
+
+git add .
+git commit -m "update"
+git push
