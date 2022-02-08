@@ -23,15 +23,15 @@ jobs:
         run: pip install -r ./my_test/requirements.txt
       - name: 'Working'
         run: bash ./my_test/main.sh
-      # - name: 'Send mail'
-      #   uses: dawidd6/action-send-mail@master
-      #   with:
-      #     server_address: smtp.163.com
-      #     server_port: 465
-      #     username: ${{ secrets.MAIL_USERNAME }}
-      #     password: ${{ secrets.MAIL_PASSWORD }}
-      #     subject: CSDN Report
-      #     body: "Update "
-      #     to: ${{ secrets.RECEIVER }}
-      #     from: GitHub Actions
-      #     content_type: text/plain
+      - name: 'Send mail'
+        uses: dawidd6/action-send-mail@master
+        with:
+          server_address: smtp.163.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: CSDN Report
+          body: "Update"
+          to: ${{ secrets.RECEIVER }}
+          from: GitHub Actions
+          content_type: text/plain
