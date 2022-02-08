@@ -11,5 +11,5 @@ git config --global user.email "wey420@lehigh.edu"
 git config --global user.name "wenxuanye"
 
 git add .
-git commit -m "TOPIC: $TODAY AUTO COMMIT"
+git commit -m "$TODAY Git actions auto run"
 git push

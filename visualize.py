@@ -32,7 +32,7 @@ class visualize(object):
         ax.scatter(datesPast5,hospsPast5,s=10,color="blue",alpha=0.8)
         offset = 5
         # change the date format to INT
-        
+        yoffset=0
         for date,hosp in zip(datesPast5,hospsPast5): 
             # change the str to date
             date1 = datetime.datetime.strptime(date,"%Y-%m-%d")
@@ -40,32 +40,20 @@ class visualize(object):
             datenext = date1 + datetime.timedelta(days=1)
             # transfrom the date to YYYY-MM-DD
             datenext = datenext.strftime("%Y-%m-%d")
-            print("nextdate",date,datenext)
+            # print("nextdate",date,datenext)
             ax.annotate(
                 int(hosp),
                 xy=(date,hosp),
                 # change the string format to INT
-                xytext=(datenext, hosp),    # fraction, fraction
+                xytext=(datenext, hosp+yoffset),    # fraction, fraction
                 arrowprops=dict(arrowstyle='->',color='black',connectionstyle='arc3'),
                 fontsize=5,
-                
-
-
             )  
+            # yoffset+=0.1
             # text=ax.text(date,hosp-offset,s="{:d}".format(int(hosp))
             #         ,ha="left",va="top",fontsize=5)
                     #,bbox = dict(facecolor=mpl.rcParams['axes.facecolor'], alpha=0.4)   )
-            # offset the text a bit
 
-            
-        # change the texts to list
-        # print(texts)
-        # adjust_text(texts)
-
-        
-           
-
-        
         ax.tick_params(which="both", labelsize=6)
 
         ax.set_ylabel("Number of weekly\nconfirmed hospitlizations due to influenza", fontsize=6)
