@@ -1,4 +1,4 @@
-name: 'Test python automate running'
+name: 'Test python  running'
 
 on:
   push:
