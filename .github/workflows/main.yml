@@ -13,8 +13,8 @@ on:
   # | | --------- Day of month (1 - 31)
   # | ----------- Hour (0 - 23)
   # ------------- Minute (0 - 59)
-  schedule:
-    - cron: '0 * * * *'
+  # schedule:
+  #   - cron: '0 * * * *'
 
 jobs:
   csdn-emailbot:
