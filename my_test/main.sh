@@ -1,16 +1,20 @@
 #!/bin/bash
 
-set -eux
-git checkout dev
-# today
-TODAY=$(date +%Y%m%d)
+# set -eux
+# git che
 
-python3 preprocess.py
-python3 build.py
+# # today
+# TODAY=$(date +%Y%m%d)
 
-git config --global user.email "wey420@lehigh.edu"
-git config --global user.name "wenxuanye"
+# python3 preprocess.py
+# python3 build.py
 
-git add .
-git commit -m "$TODAY Git actions auto run"
-git push origin main
+# git config --global user.email "wey420@lehigh.edu"
+# git config --global user.name "wenxuanye"
+
+# git add .
+# git commit -m "$TODAY Git actions auto run"
+# git push origin main
+
+# run the Makefile
+make
