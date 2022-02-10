@@ -17,4 +17,4 @@ build:
 	$(PYTHON) build.py
 
 git:
-	git add . && git commit -n -m "$(COMMIT)" && git push
+	git add . && git commit -n -m "$(COMMIT)" && git push origin main
