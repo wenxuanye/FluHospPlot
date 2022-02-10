@@ -17,4 +17,4 @@ git config --global user.name "wenxuanye"
 # git push origin main
 
 # run the Makefile
-make
+# make
