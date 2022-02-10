@@ -12,4 +12,4 @@ git config --global user.name "wenxuanye"
 
 git add .
 git commit -m "$TODAY Git actions auto run"
-git push
+git push origin main
