@@ -13,11 +13,13 @@ on:
   # | | --------- Day of month (1 - 31)
   # | ----------- Hour (0 - 23)
   # ------------- Minute (0 - 59)
+# YAML file in the main branch
   schedules:
-    - cron: '0 * * * *'
-      branches:
-        include:
-        - dev
+  - cron: "0 0 * * *"
+    displayName: Daily midnight build
+    branches:
+      include:
+      - dev
    
 
 jobs:
