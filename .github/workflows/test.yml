@@ -14,8 +14,8 @@ on:
   # | ----------- Hour (0 - 23)
   # ------------- Minute (0 - 59)
 # YAML file in the main branch
-  schedule:
-   - cron: "0 * * * *"
+  # schedule:
+  #  - cron: "0 * * * *"
 
    
 
