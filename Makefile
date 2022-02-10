@@ -7,9 +7,8 @@ COMMITsuffix:=$(shell date +"%Y-%m-%d")
 
 COMMIT:=$(COMMITprefix) $(COMMITsuffix)
 
-runall: git1 preprocess build git
-git1:
-	git checkout dev
+runall:preprocess build git
+
 preprocess:
 	$(PYTHON) preprocess.py
 
