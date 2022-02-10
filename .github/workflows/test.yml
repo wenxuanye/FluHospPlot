@@ -15,9 +15,13 @@ on:
   # ------------- Minute (0 - 59)
   schedule:
     - cron: '0 * * * *'
+      branches:
+        include:
+        - dev
+   
 
 jobs:
-  csdn-emailbot:
+  autorun:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
