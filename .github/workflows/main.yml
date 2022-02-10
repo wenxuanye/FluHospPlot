@@ -1,0 +1,46 @@
+name: 'Test python  running'
+
+
+on:
+  push:
+    branches: 
+      - dev
+  # * * * * * command(s)
+  # - - - - -
+  # | | | | |
+  # | | | | ----- Day of week (0 - 7) (Sunday=0 or 7)
+  # | | | ------- Month (1 - 12)
+  # | | --------- Day of month (1 - 31)
+  # | ----------- Hour (0 - 23)
+  # ------------- Minute (0 - 59)
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  csdn-emailbot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      # - name: 'Install dependencies'
+      #   run: python -m pip install --upgrade pip
+      - name: 'Install requirements'
+        run: pip install -r ./my_test/requirements.txt
+      - name: 'Working'
+        run: bash ./my_test/main.sh
+      - name: 'Send mail'
+        uses: dawidd6/action-send-mail@master
+        with:
+          server_address: smtp.163.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: FLUSHOT REPORT
+          body: "Test automate python code running in github"
+          to: ${{ secrets.RECEIVER }}
+          from: GitHub Actions
+          content_type: text/plain
