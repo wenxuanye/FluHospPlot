@@ -6,10 +6,10 @@ COMMITprefix:= Flu Hosp data generated on
 COMMITsuffix:=$(shell date +"%Y-%m-%d")
 
 COMMIT:=$(COMMITprefix) $(COMMITsuffix)
+
+runall: git1 preprocess build git
 git1:
 	git checkout dev
-runall: git1 preprocess build git
-
 preprocess:
 	$(PYTHON) preprocess.py
 
