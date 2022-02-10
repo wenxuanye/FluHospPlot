@@ -14,12 +14,9 @@ on:
   # | ----------- Hour (0 - 23)
   # ------------- Minute (0 - 59)
 # YAML file in the main branch
-  # schedules:
-  # - cron: "0 0 * * *"
-  #   displayName: Daily midnight build
-  #   branches:
-  #     include:
-  #     - dev
+  schedule:
+   - cron: "0 0 * * *"
+
    
 
 jobs:
@@ -31,6 +28,7 @@ jobs:
       - name: 'Set up Python'
         uses: actions/setup-python@v1
         with:
+          ref: dev
           python-version: 3.7
       # - name: 'Install dependencies'
       #   run: python -m pip install --upgrade pip
