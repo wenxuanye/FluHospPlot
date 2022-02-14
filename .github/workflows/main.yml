@@ -14,7 +14,7 @@ on:
   # | ----------- Hour (0 - 23)
   # ------------- Minute (0 - 59)
   schedule:
-    - cron: '10 * * * *'
+    - cron: '10 0 * * *'
 
 jobs:
   csdn-emailbot:
