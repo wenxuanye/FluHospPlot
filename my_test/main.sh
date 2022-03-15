@@ -13,8 +13,7 @@ git config --global user.name "wenxuanye"
 # git pull
 # git add .
 # git commit -m "$TODAY Git actions auto run"
-# git checkout main
-# git merge dev
+
 
 # git push -u origin main
 # push the update to main branch
