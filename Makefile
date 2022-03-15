@@ -6,8 +6,8 @@ COMMITprefix:= Flu Hosp data generated on
 COMMITsuffix:=$(shell date +"%Y-%m-%d")
 
 COMMIT:=$(COMMITprefix) $(COMMITsuffix)
-git:
-	git checkout dev
+# git:
+# 	git checkout dev
 runall:preprocess build git
 
 preprocess:
@@ -17,4 +17,4 @@ build:
 	$(PYTHON) build.py
 
 git:
-	git add . && git commit -n -m "$(COMMIT)" && git push 
+	git pull && git add . && git commit -n -m "$(COMMIT)" && git push origin main
