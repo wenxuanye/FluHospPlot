@@ -27,6 +27,7 @@ jobs:
         with:
           python-version: 3.7
       # - name: 'Install dependencies'
+      - name: 'update pip'
         run: python -m pip install --upgrade pip
       - name: 'Install requirements'
         run: pip install -r ./my_test/requirements.txt
