@@ -1,11 +1,11 @@
 date,location,location_name,value
-2021-01-02,2,Alaska,0
-2021-01-02,1,Alabama,25
-2021-01-02,5,Arkansas,23
-2021-01-02,4,Arizona,20
-2021-01-02,6,California,56
-2021-01-02,8,Colorado,5
-2021-01-02,9,Connecticut,1
+2021-01-02,02,Alaska,0
+2021-01-02,01,Alabama,25
+2021-01-02,05,Arkansas,23
+2021-01-02,04,Arizona,20
+2021-01-02,06,California,56
+2021-01-02,08,Colorado,5
+2021-01-02,09,Connecticut,1
 2021-01-02,11,District of Columbia,0
 2021-01-02,10,Delaware,0
 2021-01-02,12,Florida,42
@@ -53,13 +53,13 @@ date,location,location_name,value
 2021-01-02,55,Wisconsin,0
 2021-01-02,54,West Virginia,7
 2021-01-02,56,Wyoming,0
-2021-01-09,2,Alaska,0
-2021-01-09,1,Alabama,40
-2021-01-09,5,Arkansas,26
-2021-01-09,4,Arizona,18
-2021-01-09,6,California,83
-2021-01-09,8,Colorado,0
-2021-01-09,9,Connecticut,1
+2021-01-09,02,Alaska,0
+2021-01-09,01,Alabama,40
+2021-01-09,05,Arkansas,26
+2021-01-09,04,Arizona,18
+2021-01-09,06,California,83
+2021-01-09,08,Colorado,0
+2021-01-09,09,Connecticut,1
 2021-01-09,11,District of Columbia,1
 2021-01-09,10,Delaware,0
 2021-01-09,12,Florida,52
@@ -107,13 +107,13 @@ date,location,location_name,value
 2021-01-09,55,Wisconsin,0
 2021-01-09,54,West Virginia,21
 2021-01-09,56,Wyoming,0
-2021-01-16,2,Alaska,0
-2021-01-16,1,Alabama,40
-2021-01-16,5,Arkansas,30
-2021-01-16,4,Arizona,27
-2021-01-16,6,California,46
-2021-01-16,8,Colorado,4
-2021-01-16,9,Connecticut,1
+2021-01-16,02,Alaska,0
+2021-01-16,01,Alabama,40
+2021-01-16,05,Arkansas,30
+2021-01-16,04,Arizona,27
+2021-01-16,06,California,46
+2021-01-16,08,Colorado,4
+2021-01-16,09,Connecticut,1
 2021-01-16,11,District of Columbia,0
 2021-01-16,10,Delaware,3
 2021-01-16,12,Florida,53
@@ -161,13 +161,13 @@ date,location,location_name,value
 2021-01-16,55,Wisconsin,1
 2021-01-16,54,West Virginia,0
 2021-01-16,56,Wyoming,12
-2021-01-23,2,Alaska,0
-2021-01-23,1,Alabama,38
-2021-01-23,5,Arkansas,10
-2021-01-23,4,Arizona,10
-2021-01-23,6,California,44
-2021-01-23,8,Colorado,6
-2021-01-23,9,Connecticut,0
+2021-01-23,02,Alaska,0
+2021-01-23,01,Alabama,38
+2021-01-23,05,Arkansas,10
+2021-01-23,04,Arizona,10
+2021-01-23,06,California,44
+2021-01-23,08,Colorado,6
+2021-01-23,09,Connecticut,0
 2021-01-23,11,District of Columbia,1
 2021-01-23,10,Delaware,0
 2021-01-23,12,Florida,65
@@ -215,13 +215,13 @@ date,location,location_name,value
 2021-01-23,55,Wisconsin,0
 2021-01-23,54,West Virginia,0
 2021-01-23,56,Wyoming,0
-2021-01-30,2,Alaska,0
-2021-01-30,1,Alabama,45
-2021-01-30,5,Arkansas,25
-2021-01-30,4,Arizona,12
-2021-01-30,6,California,20
-2021-01-30,8,Colorado,5
-2021-01-30,9,Connecticut,0
+2021-01-30,02,Alaska,0
+2021-01-30,01,Alabama,45
+2021-01-30,05,Arkansas,25
+2021-01-30,04,Arizona,12
+2021-01-30,06,California,20
+2021-01-30,08,Colorado,5
+2021-01-30,09,Connecticut,0
 2021-01-30,11,District of Columbia,2
 2021-01-30,10,Delaware,0
 2021-01-30,12,Florida,44
@@ -269,13 +269,13 @@ date,location,location_name,value
 2021-01-30,55,Wisconsin,4
 2021-01-30,54,West Virginia,5
 2021-01-30,56,Wyoming,0
-2021-02-06,2,Alaska,0
-2021-02-06,1,Alabama,28
-2021-02-06,5,Arkansas,21
-2021-02-06,4,Arizona,14
-2021-02-06,6,California,19
-2021-02-06,8,Colorado,1
-2021-02-06,9,Connecticut,0
+2021-02-06,02,Alaska,0
+2021-02-06,01,Alabama,28
+2021-02-06,05,Arkansas,21
+2021-02-06,04,Arizona,14
+2021-02-06,06,California,19
+2021-02-06,08,Colorado,1
+2021-02-06,09,Connecticut,0
 2021-02-06,11,District of Columbia,0
 2021-02-06,10,Delaware,0
 2021-02-06,12,Florida,92
@@ -323,13 +323,13 @@ date,location,location_name,value
 2021-02-06,55,Wisconsin,5
 2021-02-06,54,West Virginia,5
 2021-02-06,56,Wyoming,0
-2021-02-13,2,Alaska,0
-2021-02-13,1,Alabama,27
-2021-02-13,5,Arkansas,27
-2021-02-13,4,Arizona,7
-2021-02-13,6,California,24
-2021-02-13,8,Colorado,1
-2021-02-13,9,Connecticut,0
+2021-02-13,02,Alaska,0
+2021-02-13,01,Alabama,27
+2021-02-13,05,Arkansas,27
+2021-02-13,04,Arizona,7
+2021-02-13,06,California,24
+2021-02-13,08,Colorado,1
+2021-02-13,09,Connecticut,0
 2021-02-13,11,District of Columbia,0
 2021-02-13,10,Delaware,0
 2021-02-13,12,Florida,53
@@ -377,13 +377,13 @@ date,location,location_name,value
 2021-02-13,55,Wisconsin,0
 2021-02-13,54,West Virginia,5
 2021-02-13,56,Wyoming,0
-2021-02-20,2,Alaska,0
-2021-02-20,1,Alabama,19
-2021-02-20,5,Arkansas,12
-2021-02-20,4,Arizona,15
-2021-02-20,6,California,19
-2021-02-20,8,Colorado,1
-2021-02-20,9,Connecticut,0
+2021-02-20,02,Alaska,0
+2021-02-20,01,Alabama,19
+2021-02-20,05,Arkansas,12
+2021-02-20,04,Arizona,15
+2021-02-20,06,California,19
+2021-02-20,08,Colorado,1
+2021-02-20,09,Connecticut,0
 2021-02-20,11,District of Columbia,0
 2021-02-20,10,Delaware,0
 2021-02-20,12,Florida,49
@@ -431,13 +431,13 @@ date,location,location_name,value
 2021-02-20,55,Wisconsin,12
 2021-02-20,54,West Virginia,5
 2021-02-20,56,Wyoming,0
-2021-02-27,2,Alaska,0
-2021-02-27,1,Alabama,41
-2021-02-27,5,Arkansas,15
-2021-02-27,4,Arizona,10
-2021-02-27,6,California,24
-2021-02-27,8,Colorado,1
-2021-02-27,9,Connecticut,0
+2021-02-27,02,Alaska,0
+2021-02-27,01,Alabama,41
+2021-02-27,05,Arkansas,15
+2021-02-27,04,Arizona,10
+2021-02-27,06,California,24
+2021-02-27,08,Colorado,1
+2021-02-27,09,Connecticut,0
 2021-02-27,11,District of Columbia,0
 2021-02-27,10,Delaware,0
 2021-02-27,12,Florida,47
@@ -485,13 +485,13 @@ date,location,location_name,value
 2021-02-27,55,Wisconsin,2
 2021-02-27,54,West Virginia,5
 2021-02-27,56,Wyoming,0
-2021-03-06,2,Alaska,0
-2021-03-06,1,Alabama,20
-2021-03-06,5,Arkansas,19
-2021-03-06,4,Arizona,29
-2021-03-06,6,California,16
-2021-03-06,8,Colorado,8
-2021-03-06,9,Connecticut,0
+2021-03-06,02,Alaska,0
+2021-03-06,01,Alabama,20
+2021-03-06,05,Arkansas,19
+2021-03-06,04,Arizona,29
+2021-03-06,06,California,16
+2021-03-06,08,Colorado,8
+2021-03-06,09,Connecticut,0
 2021-03-06,11,District of Columbia,0
 2021-03-06,10,Delaware,0
 2021-03-06,12,Florida,53
@@ -539,13 +539,13 @@ date,location,location_name,value
 2021-03-06,55,Wisconsin,1
 2021-03-06,54,West Virginia,6
 2021-03-06,56,Wyoming,0
-2021-03-13,2,Alaska,0
-2021-03-13,1,Alabama,19
-2021-03-13,5,Arkansas,22
-2021-03-13,4,Arizona,10
-2021-03-13,6,California,18
-2021-03-13,8,Colorado,1
-2021-03-13,9,Connecticut,0
+2021-03-13,02,Alaska,0
+2021-03-13,01,Alabama,19
+2021-03-13,05,Arkansas,22
+2021-03-13,04,Arizona,10
+2021-03-13,06,California,18
+2021-03-13,08,Colorado,1
+2021-03-13,09,Connecticut,0
 2021-03-13,11,District of Columbia,0
 2021-03-13,10,Delaware,0
 2021-03-13,12,Florida,51
@@ -593,13 +593,13 @@ date,location,location_name,value
 2021-03-13,55,Wisconsin,1
 2021-03-13,54,West Virginia,0
 2021-03-13,56,Wyoming,1
-2021-03-20,2,Alaska,0
-2021-03-20,1,Alabama,22
-2021-03-20,5,Arkansas,14
-2021-03-20,4,Arizona,14
-2021-03-20,6,California,13
-2021-03-20,8,Colorado,5
-2021-03-20,9,Connecticut,0
+2021-03-20,02,Alaska,0
+2021-03-20,01,Alabama,22
+2021-03-20,05,Arkansas,14
+2021-03-20,04,Arizona,14
+2021-03-20,06,California,13
+2021-03-20,08,Colorado,5
+2021-03-20,09,Connecticut,0
 2021-03-20,11,District of Columbia,0
 2021-03-20,10,Delaware,0
 2021-03-20,12,Florida,82
@@ -647,13 +647,13 @@ date,location,location_name,value
 2021-03-20,55,Wisconsin,2
 2021-03-20,54,West Virginia,0
 2021-03-20,56,Wyoming,1
-2021-03-27,2,Alaska,0
-2021-03-27,1,Alabama,17
-2021-03-27,5,Arkansas,17
-2021-03-27,4,Arizona,5
-2021-03-27,6,California,13
-2021-03-27,8,Colorado,1
-2021-03-27,9,Connecticut,0
+2021-03-27,02,Alaska,0
+2021-03-27,01,Alabama,17
+2021-03-27,05,Arkansas,17
+2021-03-27,04,Arizona,5
+2021-03-27,06,California,13
+2021-03-27,08,Colorado,1
+2021-03-27,09,Connecticut,0
 2021-03-27,11,District of Columbia,0
 2021-03-27,10,Delaware,0
 2021-03-27,12,Florida,78
@@ -701,13 +701,13 @@ date,location,location_name,value
 2021-03-27,55,Wisconsin,1
 2021-03-27,54,West Virginia,0
 2021-03-27,56,Wyoming,3
-2021-04-03,2,Alaska,0
-2021-04-03,1,Alabama,11
-2021-04-03,5,Arkansas,10
-2021-04-03,4,Arizona,11
-2021-04-03,6,California,5
-2021-04-03,8,Colorado,0
-2021-04-03,9,Connecticut,0
+2021-04-03,02,Alaska,0
+2021-04-03,01,Alabama,11
+2021-04-03,05,Arkansas,10
+2021-04-03,04,Arizona,11
+2021-04-03,06,California,5
+2021-04-03,08,Colorado,0
+2021-04-03,09,Connecticut,0
 2021-04-03,11,District of Columbia,0
 2021-04-03,10,Delaware,0
 2021-04-03,12,Florida,49
@@ -755,13 +755,13 @@ date,location,location_name,value
 2021-04-03,55,Wisconsin,1
 2021-04-03,54,West Virginia,0
 2021-04-03,56,Wyoming,0
-2021-04-10,2,Alaska,0
-2021-04-10,1,Alabama,18
-2021-04-10,5,Arkansas,20
-2021-04-10,4,Arizona,6
-2021-04-10,6,California,9
-2021-04-10,8,Colorado,1
-2021-04-10,9,Connecticut,0
+2021-04-10,02,Alaska,0
+2021-04-10,01,Alabama,18
+2021-04-10,05,Arkansas,20
+2021-04-10,04,Arizona,6
+2021-04-10,06,California,9
+2021-04-10,08,Colorado,1
+2021-04-10,09,Connecticut,0
 2021-04-10,11,District of Columbia,0
 2021-04-10,10,Delaware,0
 2021-04-10,12,Florida,50
@@ -809,13 +809,13 @@ date,location,location_name,value
 2021-04-10,55,Wisconsin,0
 2021-04-10,54,West Virginia,15
 2021-04-10,56,Wyoming,0
-2021-04-17,2,Alaska,4
-2021-04-17,1,Alabama,19
-2021-04-17,5,Arkansas,26
-2021-04-17,4,Arizona,7
-2021-04-17,6,California,10
-2021-04-17,8,Colorado,0
-2021-04-17,9,Connecticut,0
+2021-04-17,02,Alaska,4
+2021-04-17,01,Alabama,19
+2021-04-17,05,Arkansas,26
+2021-04-17,04,Arizona,7
+2021-04-17,06,California,10
+2021-04-17,08,Colorado,0
+2021-04-17,09,Connecticut,0
 2021-04-17,11,District of Columbia,0
 2021-04-17,10,Delaware,1
 2021-04-17,12,Florida,73
@@ -863,13 +863,13 @@ date,location,location_name,value
 2021-04-17,55,Wisconsin,0
 2021-04-17,54,West Virginia,0
 2021-04-17,56,Wyoming,0
-2021-04-24,2,Alaska,7
-2021-04-24,1,Alabama,32
-2021-04-24,5,Arkansas,24
-2021-04-24,4,Arizona,3
-2021-04-24,6,California,19
-2021-04-24,8,Colorado,1
-2021-04-24,9,Connecticut,0
+2021-04-24,02,Alaska,7
+2021-04-24,01,Alabama,32
+2021-04-24,05,Arkansas,24
+2021-04-24,04,Arizona,3
+2021-04-24,06,California,19
+2021-04-24,08,Colorado,1
+2021-04-24,09,Connecticut,0
 2021-04-24,11,District of Columbia,0
 2021-04-24,10,Delaware,1
 2021-04-24,12,Florida,55
@@ -917,13 +917,13 @@ date,location,location_name,value
 2021-04-24,55,Wisconsin,1
 2021-04-24,54,West Virginia,1
 2021-04-24,56,Wyoming,0
-2021-05-01,2,Alaska,7
-2021-05-01,1,Alabama,19
-2021-05-01,5,Arkansas,15
-2021-05-01,4,Arizona,21
-2021-05-01,6,California,9
-2021-05-01,8,Colorado,0
-2021-05-01,9,Connecticut,0
+2021-05-01,02,Alaska,7
+2021-05-01,01,Alabama,19
+2021-05-01,05,Arkansas,15
+2021-05-01,04,Arizona,21
+2021-05-01,06,California,9
+2021-05-01,08,Colorado,0
+2021-05-01,09,Connecticut,0
 2021-05-01,11,District of Columbia,0
 2021-05-01,10,Delaware,0
 2021-05-01,12,Florida,36
@@ -971,13 +971,13 @@ date,location,location_name,value
 2021-05-01,55,Wisconsin,4
 2021-05-01,54,West Virginia,5
 2021-05-01,56,Wyoming,0
-2021-05-08,2,Alaska,7
-2021-05-08,1,Alabama,9
-2021-05-08,5,Arkansas,6
-2021-05-08,4,Arizona,8
-2021-05-08,6,California,15
-2021-05-08,8,Colorado,0
-2021-05-08,9,Connecticut,1
+2021-05-08,02,Alaska,7
+2021-05-08,01,Alabama,9
+2021-05-08,05,Arkansas,6
+2021-05-08,04,Arizona,8
+2021-05-08,06,California,15
+2021-05-08,08,Colorado,0
+2021-05-08,09,Connecticut,1
 2021-05-08,11,District of Columbia,0
 2021-05-08,10,Delaware,0
 2021-05-08,12,Florida,51
@@ -1025,13 +1025,13 @@ date,location,location_name,value
 2021-05-08,55,Wisconsin,0
 2021-05-08,54,West Virginia,1
 2021-05-08,56,Wyoming,1
-2021-05-15,2,Alaska,7
-2021-05-15,1,Alabama,19
-2021-05-15,5,Arkansas,4
-2021-05-15,4,Arizona,13
-2021-05-15,6,California,8
-2021-05-15,8,Colorado,5
-2021-05-15,9,Connecticut,0
+2021-05-15,02,Alaska,7
+2021-05-15,01,Alabama,19
+2021-05-15,05,Arkansas,4
+2021-05-15,04,Arizona,13
+2021-05-15,06,California,8
+2021-05-15,08,Colorado,5
+2021-05-15,09,Connecticut,0
 2021-05-15,11,District of Columbia,0
 2021-05-15,10,Delaware,0
 2021-05-15,12,Florida,42
@@ -1079,13 +1079,13 @@ date,location,location_name,value
 2021-05-15,55,Wisconsin,1
 2021-05-15,54,West Virginia,2
 2021-05-15,56,Wyoming,0
-2021-05-22,2,Alaska,7
-2021-05-22,1,Alabama,15
-2021-05-22,5,Arkansas,8
-2021-05-22,4,Arizona,3
-2021-05-22,6,California,12
-2021-05-22,8,Colorado,6
-2021-05-22,9,Connecticut,0
+2021-05-22,02,Alaska,7
+2021-05-22,01,Alabama,15
+2021-05-22,05,Arkansas,8
+2021-05-22,04,Arizona,3
+2021-05-22,06,California,12
+2021-05-22,08,Colorado,6
+2021-05-22,09,Connecticut,0
 2021-05-22,11,District of Columbia,0
 2021-05-22,10,Delaware,0
 2021-05-22,12,Florida,41
@@ -1133,13 +1133,13 @@ date,location,location_name,value
 2021-05-22,55,Wisconsin,0
 2021-05-22,54,West Virginia,6
 2021-05-22,56,Wyoming,2
-2021-05-29,2,Alaska,8
-2021-05-29,1,Alabama,16
-2021-05-29,5,Arkansas,12
-2021-05-29,4,Arizona,6
-2021-05-29,6,California,13
-2021-05-29,8,Colorado,1
-2021-05-29,9,Connecticut,0
+2021-05-29,02,Alaska,8
+2021-05-29,01,Alabama,16
+2021-05-29,05,Arkansas,12
+2021-05-29,04,Arizona,6
+2021-05-29,06,California,13
+2021-05-29,08,Colorado,1
+2021-05-29,09,Connecticut,0
 2021-05-29,11,District of Columbia,0
 2021-05-29,10,Delaware,0
 2021-05-29,12,Florida,37
@@ -1187,13 +1187,13 @@ date,location,location_name,value
 2021-05-29,55,Wisconsin,4
 2021-05-29,54,West Virginia,5
 2021-05-29,56,Wyoming,0
-2021-06-05,2,Alaska,7
-2021-06-05,1,Alabama,20
-2021-06-05,5,Arkansas,7
-2021-06-05,4,Arizona,13
-2021-06-05,6,California,7
-2021-06-05,8,Colorado,0
-2021-06-05,9,Connecticut,0
+2021-06-05,02,Alaska,7
+2021-06-05,01,Alabama,20
+2021-06-05,05,Arkansas,7
+2021-06-05,04,Arizona,13
+2021-06-05,06,California,7
+2021-06-05,08,Colorado,0
+2021-06-05,09,Connecticut,0
 2021-06-05,11,District of Columbia,0
 2021-06-05,10,Delaware,0
 2021-06-05,12,Florida,29
@@ -1241,13 +1241,13 @@ date,location,location_name,value
 2021-06-05,55,Wisconsin,1
 2021-06-05,54,West Virginia,0
 2021-06-05,56,Wyoming,0
-2021-06-12,2,Alaska,7
-2021-06-12,1,Alabama,19
-2021-06-12,5,Arkansas,7
-2021-06-12,4,Arizona,3
-2021-06-12,6,California,4
-2021-06-12,8,Colorado,0
-2021-06-12,9,Connecticut,0
+2021-06-12,02,Alaska,7
+2021-06-12,01,Alabama,19
+2021-06-12,05,Arkansas,7
+2021-06-12,04,Arizona,3
+2021-06-12,06,California,4
+2021-06-12,08,Colorado,0
+2021-06-12,09,Connecticut,0
 2021-06-12,11,District of Columbia,0
 2021-06-12,10,Delaware,0
 2021-06-12,12,Florida,16
@@ -1295,13 +1295,13 @@ date,location,location_name,value
 2021-06-12,55,Wisconsin,1
 2021-06-12,54,West Virginia,0
 2021-06-12,56,Wyoming,10
-2021-06-19,2,Alaska,7
-2021-06-19,1,Alabama,20
-2021-06-19,5,Arkansas,4
-2021-06-19,4,Arizona,9
-2021-06-19,6,California,9
-2021-06-19,8,Colorado,0
-2021-06-19,9,Connecticut,0
+2021-06-19,02,Alaska,7
+2021-06-19,01,Alabama,20
+2021-06-19,05,Arkansas,4
+2021-06-19,04,Arizona,9
+2021-06-19,06,California,9
+2021-06-19,08,Colorado,0
+2021-06-19,09,Connecticut,0
 2021-06-19,11,District of Columbia,0
 2021-06-19,10,Delaware,0
 2021-06-19,12,Florida,28
@@ -1349,13 +1349,13 @@ date,location,location_name,value
 2021-06-19,55,Wisconsin,0
 2021-06-19,54,West Virginia,5
 2021-06-19,56,Wyoming,2
-2021-06-26,2,Alaska,7
-2021-06-26,1,Alabama,13
-2021-06-26,5,Arkansas,3
-2021-06-26,4,Arizona,3
-2021-06-26,6,California,15
-2021-06-26,8,Colorado,0
-2021-06-26,9,Connecticut,0
+2021-06-26,02,Alaska,7
+2021-06-26,01,Alabama,13
+2021-06-26,05,Arkansas,3
+2021-06-26,04,Arizona,3
+2021-06-26,06,California,15
+2021-06-26,08,Colorado,0
+2021-06-26,09,Connecticut,0
 2021-06-26,11,District of Columbia,0
 2021-06-26,10,Delaware,0
 2021-06-26,12,Florida,35
@@ -1403,13 +1403,13 @@ date,location,location_name,value
 2021-06-26,55,Wisconsin,0
 2021-06-26,54,West Virginia,0
 2021-06-26,56,Wyoming,0
-2021-07-03,2,Alaska,7
-2021-07-03,1,Alabama,18
-2021-07-03,5,Arkansas,1
-2021-07-03,4,Arizona,13
-2021-07-03,6,California,5
-2021-07-03,8,Colorado,1
-2021-07-03,9,Connecticut,0
+2021-07-03,02,Alaska,7
+2021-07-03,01,Alabama,18
+2021-07-03,05,Arkansas,1
+2021-07-03,04,Arizona,13
+2021-07-03,06,California,5
+2021-07-03,08,Colorado,1
+2021-07-03,09,Connecticut,0
 2021-07-03,11,District of Columbia,0
 2021-07-03,10,Delaware,0
 2021-07-03,12,Florida,25
@@ -1457,13 +1457,13 @@ date,location,location_name,value
 2021-07-03,55,Wisconsin,0
 2021-07-03,54,West Virginia,0
 2021-07-03,56,Wyoming,0
-2021-07-10,2,Alaska,7
-2021-07-10,1,Alabama,14
-2021-07-10,5,Arkansas,2
-2021-07-10,4,Arizona,1
-2021-07-10,6,California,9
-2021-07-10,8,Colorado,5
-2021-07-10,9,Connecticut,0
+2021-07-10,02,Alaska,7
+2021-07-10,01,Alabama,14
+2021-07-10,05,Arkansas,2
+2021-07-10,04,Arizona,1
+2021-07-10,06,California,9
+2021-07-10,08,Colorado,5
+2021-07-10,09,Connecticut,0
 2021-07-10,11,District of Columbia,1
 2021-07-10,10,Delaware,0
 2021-07-10,12,Florida,34
@@ -1511,13 +1511,13 @@ date,location,location_name,value
 2021-07-10,55,Wisconsin,0
 2021-07-10,54,West Virginia,0
 2021-07-10,56,Wyoming,0
-2021-07-17,2,Alaska,7
-2021-07-17,1,Alabama,18
-2021-07-17,5,Arkansas,0
-2021-07-17,4,Arizona,5
-2021-07-17,6,California,14
-2021-07-17,8,Colorado,0
-2021-07-17,9,Connecticut,0
+2021-07-17,02,Alaska,7
+2021-07-17,01,Alabama,18
+2021-07-17,05,Arkansas,0
+2021-07-17,04,Arizona,5
+2021-07-17,06,California,14
+2021-07-17,08,Colorado,0
+2021-07-17,09,Connecticut,0
 2021-07-17,11,District of Columbia,0
 2021-07-17,10,Delaware,0
 2021-07-17,12,Florida,53
@@ -1565,13 +1565,13 @@ date,location,location_name,value
 2021-07-17,55,Wisconsin,0
 2021-07-17,54,West Virginia,6
 2021-07-17,56,Wyoming,0
-2021-07-24,2,Alaska,8
-2021-07-24,1,Alabama,20
-2021-07-24,5,Arkansas,4
-2021-07-24,4,Arizona,5
-2021-07-24,6,California,8
-2021-07-24,8,Colorado,1
-2021-07-24,9,Connecticut,0
+2021-07-24,02,Alaska,8
+2021-07-24,01,Alabama,20
+2021-07-24,05,Arkansas,4
+2021-07-24,04,Arizona,5
+2021-07-24,06,California,8
+2021-07-24,08,Colorado,1
+2021-07-24,09,Connecticut,0
 2021-07-24,11,District of Columbia,0
 2021-07-24,10,Delaware,0
 2021-07-24,12,Florida,30
@@ -1619,13 +1619,13 @@ date,location,location_name,value
 2021-07-24,55,Wisconsin,0
 2021-07-24,54,West Virginia,1
 2021-07-24,56,Wyoming,0
-2021-07-31,2,Alaska,7
-2021-07-31,1,Alabama,31
-2021-07-31,5,Arkansas,6
-2021-07-31,4,Arizona,4
-2021-07-31,6,California,10
-2021-07-31,8,Colorado,2
-2021-07-31,9,Connecticut,1
+2021-07-31,02,Alaska,7
+2021-07-31,01,Alabama,31
+2021-07-31,05,Arkansas,6
+2021-07-31,04,Arizona,4
+2021-07-31,06,California,10
+2021-07-31,08,Colorado,2
+2021-07-31,09,Connecticut,1
 2021-07-31,11,District of Columbia,0
 2021-07-31,10,Delaware,1
 2021-07-31,12,Florida,41
@@ -1673,13 +1673,13 @@ date,location,location_name,value
 2021-07-31,55,Wisconsin,1
 2021-07-31,54,West Virginia,1
 2021-07-31,56,Wyoming,0
-2021-08-07,2,Alaska,7
-2021-08-07,1,Alabama,21
-2021-08-07,5,Arkansas,5
-2021-08-07,4,Arizona,4
-2021-08-07,6,California,16
-2021-08-07,8,Colorado,4
-2021-08-07,9,Connecticut,0
+2021-08-07,02,Alaska,7
+2021-08-07,01,Alabama,21
+2021-08-07,05,Arkansas,5
+2021-08-07,04,Arizona,4
+2021-08-07,06,California,16
+2021-08-07,08,Colorado,4
+2021-08-07,09,Connecticut,0
 2021-08-07,11,District of Columbia,0
 2021-08-07,10,Delaware,0
 2021-08-07,12,Florida,49
@@ -1727,13 +1727,13 @@ date,location,location_name,value
 2021-08-07,55,Wisconsin,1
 2021-08-07,54,West Virginia,2
 2021-08-07,56,Wyoming,0
-2021-08-14,2,Alaska,7
-2021-08-14,1,Alabama,18
-2021-08-14,5,Arkansas,3
-2021-08-14,4,Arizona,18
-2021-08-14,6,California,12
-2021-08-14,8,Colorado,2
-2021-08-14,9,Connecticut,0
+2021-08-14,02,Alaska,7
+2021-08-14,01,Alabama,18
+2021-08-14,05,Arkansas,3
+2021-08-14,04,Arizona,18
+2021-08-14,06,California,12
+2021-08-14,08,Colorado,2
+2021-08-14,09,Connecticut,0
 2021-08-14,11,District of Columbia,0
 2021-08-14,10,Delaware,0
 2021-08-14,12,Florida,43
@@ -1781,13 +1781,13 @@ date,location,location_name,value
 2021-08-14,55,Wisconsin,0
 2021-08-14,54,West Virginia,4
 2021-08-14,56,Wyoming,0
-2021-08-21,2,Alaska,7
-2021-08-21,1,Alabama,28
-2021-08-21,5,Arkansas,8
-2021-08-21,4,Arizona,12
-2021-08-21,6,California,6
-2021-08-21,8,Colorado,3
-2021-08-21,9,Connecticut,0
+2021-08-21,02,Alaska,7
+2021-08-21,01,Alabama,28
+2021-08-21,05,Arkansas,8
+2021-08-21,04,Arizona,12
+2021-08-21,06,California,6
+2021-08-21,08,Colorado,3
+2021-08-21,09,Connecticut,0
 2021-08-21,11,District of Columbia,0
 2021-08-21,10,Delaware,1
 2021-08-21,12,Florida,34
@@ -1835,13 +1835,13 @@ date,location,location_name,value
 2021-08-21,55,Wisconsin,0
 2021-08-21,54,West Virginia,2
 2021-08-21,56,Wyoming,0
-2021-08-28,2,Alaska,7
-2021-08-28,1,Alabama,22
-2021-08-28,5,Arkansas,7
-2021-08-28,4,Arizona,7
-2021-08-28,6,California,8
-2021-08-28,8,Colorado,3
-2021-08-28,9,Connecticut,0
+2021-08-28,02,Alaska,7
+2021-08-28,01,Alabama,22
+2021-08-28,05,Arkansas,7
+2021-08-28,04,Arizona,7
+2021-08-28,06,California,8
+2021-08-28,08,Colorado,3
+2021-08-28,09,Connecticut,0
 2021-08-28,11,District of Columbia,0
 2021-08-28,10,Delaware,2
 2021-08-28,12,Florida,26
@@ -1889,14 +1889,14 @@ date,location,location_name,value
 2021-08-28,55,Wisconsin,0
 2021-08-28,54,West Virginia,2
 2021-08-28,56,Wyoming,0
-2021-09-04,2,Alaska,7
-2021-09-04,1,Alabama,33
-2021-09-04,5,Arkansas,5
+2021-09-04,02,Alaska,7
+2021-09-04,01,Alabama,33
+2021-09-04,05,Arkansas,5
 2021-09-04,60,American Samoa,0
-2021-09-04,4,Arizona,8
-2021-09-04,6,California,7
-2021-09-04,8,Colorado,5
-2021-09-04,9,Connecticut,0
+2021-09-04,04,Arizona,8
+2021-09-04,06,California,7
+2021-09-04,08,Colorado,5
+2021-09-04,09,Connecticut,0
 2021-09-04,11,District of Columbia,0
 2021-09-04,10,Delaware,0
 2021-09-04,12,Florida,22
@@ -1944,14 +1944,14 @@ date,location,location_name,value
 2021-09-04,55,Wisconsin,1
 2021-09-04,54,West Virginia,4
 2021-09-04,56,Wyoming,0
-2021-09-11,2,Alaska,7
-2021-09-11,1,Alabama,27
-2021-09-11,5,Arkansas,2
+2021-09-11,02,Alaska,7
+2021-09-11,01,Alabama,27
+2021-09-11,05,Arkansas,2
 2021-09-11,60,American Samoa,0
-2021-09-11,4,Arizona,3
-2021-09-11,6,California,8
-2021-09-11,8,Colorado,1
-2021-09-11,9,Connecticut,0
+2021-09-11,04,Arizona,3
+2021-09-11,06,California,8
+2021-09-11,08,Colorado,1
+2021-09-11,09,Connecticut,0
 2021-09-11,11,District of Columbia,0
 2021-09-11,10,Delaware,0
 2021-09-11,12,Florida,30
@@ -1999,14 +1999,14 @@ date,location,location_name,value
 2021-09-11,55,Wisconsin,0
 2021-09-11,54,West Virginia,3
 2021-09-11,56,Wyoming,0
-2021-09-18,2,Alaska,7
-2021-09-18,1,Alabama,22
-2021-09-18,5,Arkansas,5
+2021-09-18,02,Alaska,7
+2021-09-18,01,Alabama,22
+2021-09-18,05,Arkansas,5
 2021-09-18,60,American Samoa,0
-2021-09-18,4,Arizona,4
-2021-09-18,6,California,6
-2021-09-18,8,Colorado,4
-2021-09-18,9,Connecticut,0
+2021-09-18,04,Arizona,4
+2021-09-18,06,California,6
+2021-09-18,08,Colorado,4
+2021-09-18,09,Connecticut,0
 2021-09-18,11,District of Columbia,0
 2021-09-18,10,Delaware,1
 2021-09-18,12,Florida,35
@@ -2054,14 +2054,14 @@ date,location,location_name,value
 2021-09-18,55,Wisconsin,2
 2021-09-18,54,West Virginia,2
 2021-09-18,56,Wyoming,0
-2021-09-25,2,Alaska,7
-2021-09-25,1,Alabama,19
-2021-09-25,5,Arkansas,4
+2021-09-25,02,Alaska,7
+2021-09-25,01,Alabama,19
+2021-09-25,05,Arkansas,4
 2021-09-25,60,American Samoa,0
-2021-09-25,4,Arizona,2
-2021-09-25,6,California,15
-2021-09-25,8,Colorado,3
-2021-09-25,9,Connecticut,0
+2021-09-25,04,Arizona,2
+2021-09-25,06,California,15
+2021-09-25,08,Colorado,3
+2021-09-25,09,Connecticut,0
 2021-09-25,11,District of Columbia,0
 2021-09-25,10,Delaware,0
 2021-09-25,12,Florida,29
@@ -2109,14 +2109,14 @@ date,location,location_name,value
 2021-09-25,55,Wisconsin,12
 2021-09-25,54,West Virginia,4
 2021-09-25,56,Wyoming,0
-2021-10-02,2,Alaska,4
-2021-10-02,1,Alabama,11
-2021-10-02,5,Arkansas,3
+2021-10-02,02,Alaska,4
+2021-10-02,01,Alabama,11
+2021-10-02,05,Arkansas,3
 2021-10-02,60,American Samoa,0
-2021-10-02,4,Arizona,13
-2021-10-02,6,California,12
-2021-10-02,8,Colorado,0
-2021-10-02,9,Connecticut,0
+2021-10-02,04,Arizona,13
+2021-10-02,06,California,12
+2021-10-02,08,Colorado,0
+2021-10-02,09,Connecticut,0
 2021-10-02,11,District of Columbia,0
 2021-10-02,10,Delaware,1
 2021-10-02,12,Florida,32
@@ -2164,14 +2164,14 @@ date,location,location_name,value
 2021-10-02,55,Wisconsin,1
 2021-10-02,54,West Virginia,3
 2021-10-02,56,Wyoming,0
-2021-10-09,2,Alaska,0
-2021-10-09,1,Alabama,18
-2021-10-09,5,Arkansas,4
+2021-10-09,02,Alaska,0
+2021-10-09,01,Alabama,18
+2021-10-09,05,Arkansas,4
 2021-10-09,60,American Samoa,0
-2021-10-09,4,Arizona,27
-2021-10-09,6,California,14
-2021-10-09,8,Colorado,6
-2021-10-09,9,Connecticut,0
+2021-10-09,04,Arizona,27
+2021-10-09,06,California,14
+2021-10-09,08,Colorado,6
+2021-10-09,09,Connecticut,0
 2021-10-09,11,District of Columbia,0
 2021-10-09,10,Delaware,0
 2021-10-09,12,Florida,38
@@ -2219,14 +2219,14 @@ date,location,location_name,value
 2021-10-09,55,Wisconsin,5
 2021-10-09,54,West Virginia,10
 2021-10-09,56,Wyoming,0
-2021-10-16,2,Alaska,0
-2021-10-16,1,Alabama,11
-2021-10-16,5,Arkansas,8
+2021-10-16,02,Alaska,0
+2021-10-16,01,Alabama,11
+2021-10-16,05,Arkansas,8
 2021-10-16,60,American Samoa,0
-2021-10-16,4,Arizona,28
-2021-10-16,6,California,10
-2021-10-16,8,Colorado,1
-2021-10-16,9,Connecticut,0
+2021-10-16,04,Arizona,28
+2021-10-16,06,California,10
+2021-10-16,08,Colorado,1
+2021-10-16,09,Connecticut,0
 2021-10-16,11,District of Columbia,0
 2021-10-16,10,Delaware,3
 2021-10-16,12,Florida,30
@@ -2274,14 +2274,14 @@ date,location,location_name,value
 2021-10-16,55,Wisconsin,2
 2021-10-16,54,West Virginia,1
 2021-10-16,56,Wyoming,0
-2021-10-23,2,Alaska,1
-2021-10-23,1,Alabama,11
-2021-10-23,5,Arkansas,7
+2021-10-23,02,Alaska,1
+2021-10-23,01,Alabama,11
+2021-10-23,05,Arkansas,7
 2021-10-23,60,American Samoa,0
-2021-10-23,4,Arizona,4
-2021-10-23,6,California,17
-2021-10-23,8,Colorado,4
-2021-10-23,9,Connecticut,0
+2021-10-23,04,Arizona,4
+2021-10-23,06,California,17
+2021-10-23,08,Colorado,4
+2021-10-23,09,Connecticut,0
 2021-10-23,11,District of Columbia,0
 2021-10-23,10,Delaware,0
 2021-10-23,12,Florida,48
@@ -2329,14 +2329,14 @@ date,location,location_name,value
 2021-10-23,55,Wisconsin,10
 2021-10-23,54,West Virginia,4
 2021-10-23,56,Wyoming,0
-2021-10-30,2,Alaska,0
-2021-10-30,1,Alabama,14
-2021-10-30,5,Arkansas,3
+2021-10-30,02,Alaska,0
+2021-10-30,01,Alabama,14
+2021-10-30,05,Arkansas,3
 2021-10-30,60,American Samoa,0
-2021-10-30,4,Arizona,8
-2021-10-30,6,California,8
-2021-10-30,8,Colorado,4
-2021-10-30,9,Connecticut,0
+2021-10-30,04,Arizona,8
+2021-10-30,06,California,8
+2021-10-30,08,Colorado,4
+2021-10-30,09,Connecticut,0
 2021-10-30,11,District of Columbia,0
 2021-10-30,10,Delaware,3
 2021-10-30,12,Florida,39
@@ -2384,14 +2384,14 @@ date,location,location_name,value
 2021-10-30,55,Wisconsin,2
 2021-10-30,54,West Virginia,0
 2021-10-30,56,Wyoming,0
-2021-11-06,2,Alaska,0
-2021-11-06,1,Alabama,8
-2021-11-06,5,Arkansas,10
+2021-11-06,02,Alaska,0
+2021-11-06,01,Alabama,8
+2021-11-06,05,Arkansas,10
 2021-11-06,60,American Samoa,0
-2021-11-06,4,Arizona,10
-2021-11-06,6,California,19
-2021-11-06,8,Colorado,6
-2021-11-06,9,Connecticut,0
+2021-11-06,04,Arizona,10
+2021-11-06,06,California,19
+2021-11-06,08,Colorado,6
+2021-11-06,09,Connecticut,0
 2021-11-06,11,District of Columbia,0
 2021-11-06,10,Delaware,1
 2021-11-06,12,Florida,45
@@ -2439,14 +2439,14 @@ date,location,location_name,value
 2021-11-06,55,Wisconsin,1
 2021-11-06,54,West Virginia,4
 2021-11-06,56,Wyoming,0
-2021-11-13,2,Alaska,0
-2021-11-13,1,Alabama,23
-2021-11-13,5,Arkansas,11
+2021-11-13,02,Alaska,0
+2021-11-13,01,Alabama,23
+2021-11-13,05,Arkansas,11
 2021-11-13,60,American Samoa,0
-2021-11-13,4,Arizona,11
-2021-11-13,6,California,19
-2021-11-13,8,Colorado,4
-2021-11-13,9,Connecticut,0
+2021-11-13,04,Arizona,11
+2021-11-13,06,California,19
+2021-11-13,08,Colorado,4
+2021-11-13,09,Connecticut,0
 2021-11-13,11,District of Columbia,0
 2021-11-13,10,Delaware,2
 2021-11-13,12,Florida,65
@@ -2494,14 +2494,14 @@ date,location,location_name,value
 2021-11-13,55,Wisconsin,4
 2021-11-13,54,West Virginia,6
 2021-11-13,56,Wyoming,3
-2021-11-20,2,Alaska,0
-2021-11-20,1,Alabama,29
-2021-11-20,5,Arkansas,9
+2021-11-20,02,Alaska,0
+2021-11-20,01,Alabama,29
+2021-11-20,05,Arkansas,9
 2021-11-20,60,American Samoa,0
-2021-11-20,4,Arizona,11
-2021-11-20,6,California,25
-2021-11-20,8,Colorado,4
-2021-11-20,9,Connecticut,2
+2021-11-20,04,Arizona,11
+2021-11-20,06,California,25
+2021-11-20,08,Colorado,4
+2021-11-20,09,Connecticut,2
 2021-11-20,11,District of Columbia,0
 2021-11-20,10,Delaware,6
 2021-11-20,12,Florida,76
@@ -2549,14 +2549,14 @@ date,location,location_name,value
 2021-11-20,55,Wisconsin,6
 2021-11-20,54,West Virginia,5
 2021-11-20,56,Wyoming,2
-2021-11-27,2,Alaska,0
-2021-11-27,1,Alabama,19
-2021-11-27,5,Arkansas,10
+2021-11-27,02,Alaska,0
+2021-11-27,01,Alabama,19
+2021-11-27,05,Arkansas,10
 2021-11-27,60,American Samoa,0
-2021-11-27,4,Arizona,18
-2021-11-27,6,California,28
-2021-11-27,8,Colorado,4
-2021-11-27,9,Connecticut,3
+2021-11-27,04,Arizona,18
+2021-11-27,06,California,28
+2021-11-27,08,Colorado,4
+2021-11-27,09,Connecticut,3
 2021-11-27,11,District of Columbia,1
 2021-11-27,10,Delaware,5
 2021-11-27,12,Florida,78
@@ -2604,14 +2604,14 @@ date,location,location_name,value
 2021-11-27,55,Wisconsin,7
 2021-11-27,54,West Virginia,6
 2021-11-27,56,Wyoming,2
-2021-12-04,2,Alaska,0
-2021-12-04,1,Alabama,32
-2021-12-04,5,Arkansas,15
+2021-12-04,02,Alaska,0
+2021-12-04,01,Alabama,32
+2021-12-04,05,Arkansas,15
 2021-12-04,60,American Samoa,0
-2021-12-04,4,Arizona,33
-2021-12-04,6,California,54
-2021-12-04,8,Colorado,18
-2021-12-04,9,Connecticut,14
+2021-12-04,04,Arizona,33
+2021-12-04,06,California,54
+2021-12-04,08,Colorado,18
+2021-12-04,09,Connecticut,14
 2021-12-04,11,District of Columbia,1
 2021-12-04,10,Delaware,9
 2021-12-04,12,Florida,90
@@ -2659,14 +2659,14 @@ date,location,location_name,value
 2021-12-04,55,Wisconsin,17
 2021-12-04,54,West Virginia,12
 2021-12-04,56,Wyoming,3
-2021-12-11,2,Alaska,0
-2021-12-11,1,Alabama,23
-2021-12-11,5,Arkansas,11
+2021-12-11,02,Alaska,0
+2021-12-11,01,Alabama,23
+2021-12-11,05,Arkansas,11
 2021-12-11,60,American Samoa,0
-2021-12-11,4,Arizona,30
-2021-12-11,6,California,66
-2021-12-11,8,Colorado,30
-2021-12-11,9,Connecticut,16
+2021-12-11,04,Arizona,30
+2021-12-11,06,California,66
+2021-12-11,08,Colorado,30
+2021-12-11,09,Connecticut,16
 2021-12-11,11,District of Columbia,3
 2021-12-11,10,Delaware,10
 2021-12-11,12,Florida,92
@@ -2714,14 +2714,14 @@ date,location,location_name,value
 2021-12-11,55,Wisconsin,6
 2021-12-11,54,West Virginia,13
 2021-12-11,56,Wyoming,1
-2021-12-18,2,Alaska,2
-2021-12-18,1,Alabama,34
-2021-12-18,5,Arkansas,14
+2021-12-18,02,Alaska,2
+2021-12-18,01,Alabama,34
+2021-12-18,05,Arkansas,14
 2021-12-18,60,American Samoa,0
-2021-12-18,4,Arizona,44
-2021-12-18,6,California,70
-2021-12-18,8,Colorado,41
-2021-12-18,9,Connecticut,16
+2021-12-18,04,Arizona,44
+2021-12-18,06,California,70
+2021-12-18,08,Colorado,41
+2021-12-18,09,Connecticut,16
 2021-12-18,11,District of Columbia,0
 2021-12-18,10,Delaware,13
 2021-12-18,12,Florida,107
@@ -2769,14 +2769,14 @@ date,location,location_name,value
 2021-12-18,55,Wisconsin,24
 2021-12-18,54,West Virginia,7
 2021-12-18,56,Wyoming,1
-2021-12-25,2,Alaska,7
-2021-12-25,1,Alabama,20
-2021-12-25,5,Arkansas,15
+2021-12-25,02,Alaska,7
+2021-12-25,01,Alabama,20
+2021-12-25,05,Arkansas,15
 2021-12-25,60,American Samoa,0
-2021-12-25,4,Arizona,68
-2021-12-25,6,California,118
-2021-12-25,8,Colorado,53
-2021-12-25,9,Connecticut,25
+2021-12-25,04,Arizona,68
+2021-12-25,06,California,118
+2021-12-25,08,Colorado,53
+2021-12-25,09,Connecticut,25
 2021-12-25,11,District of Columbia,0
 2021-12-25,10,Delaware,10
 2021-12-25,12,Florida,116
@@ -2824,14 +2824,14 @@ date,location,location_name,value
 2021-12-25,55,Wisconsin,48
 2021-12-25,54,West Virginia,25
 2021-12-25,56,Wyoming,4
-2022-01-01,2,Alaska,8
-2022-01-01,1,Alabama,60
-2022-01-01,5,Arkansas,33
+2022-01-01,02,Alaska,8
+2022-01-01,01,Alabama,60
+2022-01-01,05,Arkansas,33
 2022-01-01,60,American Samoa,0
-2022-01-01,4,Arizona,149
-2022-01-01,6,California,97
-2022-01-01,8,Colorado,63
-2022-01-01,9,Connecticut,21
+2022-01-01,04,Arizona,149
+2022-01-01,06,California,97
+2022-01-01,08,Colorado,63
+2022-01-01,09,Connecticut,21
 2022-01-01,11,District of Columbia,0
 2022-01-01,10,Delaware,17
 2022-01-01,12,Florida,126
@@ -2879,14 +2879,14 @@ date,location,location_name,value
 2022-01-01,55,Wisconsin,99
 2022-01-01,54,West Virginia,19
 2022-01-01,56,Wyoming,20
-2022-01-08,2,Alaska,3
-2022-01-08,1,Alabama,25
-2022-01-08,5,Arkansas,42
+2022-01-08,02,Alaska,3
+2022-01-08,01,Alabama,25
+2022-01-08,05,Arkansas,42
 2022-01-08,60,American Samoa,0
-2022-01-08,4,Arizona,79
-2022-01-08,6,California,93
-2022-01-08,8,Colorado,27
-2022-01-08,9,Connecticut,8
+2022-01-08,04,Arizona,79
+2022-01-08,06,California,93
+2022-01-08,08,Colorado,27
+2022-01-08,09,Connecticut,8
 2022-01-08,11,District of Columbia,0
 2022-01-08,10,Delaware,9
 2022-01-08,12,Florida,86
@@ -2934,14 +2934,14 @@ date,location,location_name,value
 2022-01-08,55,Wisconsin,58
 2022-01-08,54,West Virginia,15
 2022-01-08,56,Wyoming,10
-2022-01-15,2,Alaska,15
-2022-01-15,1,Alabama,33
-2022-01-15,5,Arkansas,34
+2022-01-15,02,Alaska,15
+2022-01-15,01,Alabama,33
+2022-01-15,05,Arkansas,34
 2022-01-15,60,American Samoa,0
-2022-01-15,4,Arizona,37
-2022-01-15,6,California,81
-2022-01-15,8,Colorado,29
-2022-01-15,9,Connecticut,2
+2022-01-15,04,Arizona,37
+2022-01-15,06,California,81
+2022-01-15,08,Colorado,29
+2022-01-15,09,Connecticut,2
 2022-01-15,11,District of Columbia,0
 2022-01-15,10,Delaware,6
 2022-01-15,12,Florida,132
@@ -2989,14 +2989,14 @@ date,location,location_name,value
 2022-01-15,55,Wisconsin,34
 2022-01-15,54,West Virginia,5
 2022-01-15,56,Wyoming,2
-2022-01-22,2,Alaska,12
-2022-01-22,1,Alabama,22
-2022-01-22,5,Arkansas,21
+2022-01-22,02,Alaska,12
+2022-01-22,01,Alabama,22
+2022-01-22,05,Arkansas,21
 2022-01-22,60,American Samoa,0
-2022-01-22,4,Arizona,27
-2022-01-22,6,California,64
-2022-01-22,8,Colorado,9
-2022-01-22,9,Connecticut,11
+2022-01-22,04,Arizona,27
+2022-01-22,06,California,64
+2022-01-22,08,Colorado,9
+2022-01-22,09,Connecticut,11
 2022-01-22,11,District of Columbia,0
 2022-01-22,10,Delaware,5
 2022-01-22,12,Florida,74
@@ -3044,14 +3044,14 @@ date,location,location_name,value
 2022-01-22,55,Wisconsin,20
 2022-01-22,54,West Virginia,13
 2022-01-22,56,Wyoming,9
-2022-01-29,2,Alaska,1
-2022-01-29,1,Alabama,18
-2022-01-29,5,Arkansas,18
+2022-01-29,02,Alaska,1
+2022-01-29,01,Alabama,18
+2022-01-29,05,Arkansas,18
 2022-01-29,60,American Samoa,0
-2022-01-29,4,Arizona,39
-2022-01-29,6,California,30
-2022-01-29,8,Colorado,11
-2022-01-29,9,Connecticut,2
+2022-01-29,04,Arizona,39
+2022-01-29,06,California,30
+2022-01-29,08,Colorado,11
+2022-01-29,09,Connecticut,2
 2022-01-29,11,District of Columbia,0
 2022-01-29,10,Delaware,1
 2022-01-29,12,Florida,61
@@ -3099,14 +3099,14 @@ date,location,location_name,value
 2022-01-29,55,Wisconsin,22
 2022-01-29,54,West Virginia,8
 2022-01-29,56,Wyoming,1
-2022-02-05,2,Alaska,1
-2022-02-05,1,Alabama,17
-2022-02-05,5,Arkansas,23
+2022-02-05,02,Alaska,1
+2022-02-05,01,Alabama,17
+2022-02-05,05,Arkansas,23
 2022-02-05,60,American Samoa,0
-2022-02-05,4,Arizona,38
-2022-02-05,6,California,32
-2022-02-05,8,Colorado,20
-2022-02-05,9,Connecticut,4
+2022-02-05,04,Arizona,38
+2022-02-05,06,California,32
+2022-02-05,08,Colorado,20
+2022-02-05,09,Connecticut,4
 2022-02-05,11,District of Columbia,3
 2022-02-05,10,Delaware,0
 2022-02-05,12,Florida,79
@@ -3154,14 +3154,14 @@ date,location,location_name,value
 2022-02-05,55,Wisconsin,31
 2022-02-05,54,West Virginia,9
 2022-02-05,56,Wyoming,1
-2022-02-12,2,Alaska,0
-2022-02-12,1,Alabama,12
-2022-02-12,5,Arkansas,24
+2022-02-12,02,Alaska,0
+2022-02-12,01,Alabama,12
+2022-02-12,05,Arkansas,24
 2022-02-12,60,American Samoa,0
-2022-02-12,4,Arizona,63
-2022-02-12,6,California,34
-2022-02-12,8,Colorado,27
-2022-02-12,9,Connecticut,0
+2022-02-12,04,Arizona,63
+2022-02-12,06,California,34
+2022-02-12,08,Colorado,27
+2022-02-12,09,Connecticut,0
 2022-02-12,11,District of Columbia,0
 2022-02-12,10,Delaware,2
 2022-02-12,12,Florida,64
@@ -3209,14 +3209,14 @@ date,location,location_name,value
 2022-02-12,55,Wisconsin,28
 2022-02-12,54,West Virginia,5
 2022-02-12,56,Wyoming,2
-2022-02-19,2,Alaska,0
-2022-02-19,1,Alabama,20
-2022-02-19,5,Arkansas,32
+2022-02-19,02,Alaska,0
+2022-02-19,01,Alabama,20
+2022-02-19,05,Arkansas,32
 2022-02-19,60,American Samoa,0
-2022-02-19,4,Arizona,66
-2022-02-19,6,California,18
-2022-02-19,8,Colorado,22
-2022-02-19,9,Connecticut,1
+2022-02-19,04,Arizona,66
+2022-02-19,06,California,18
+2022-02-19,08,Colorado,22
+2022-02-19,09,Connecticut,1
 2022-02-19,11,District of Columbia,1
 2022-02-19,10,Delaware,3
 2022-02-19,12,Florida,74
@@ -3264,14 +3264,14 @@ date,location,location_name,value
 2022-02-19,55,Wisconsin,29
 2022-02-19,54,West Virginia,12
 2022-02-19,56,Wyoming,2
-2022-02-26,2,Alaska,1
-2022-02-26,1,Alabama,14
-2022-02-26,5,Arkansas,42
+2022-02-26,02,Alaska,1
+2022-02-26,01,Alabama,14
+2022-02-26,05,Arkansas,42
 2022-02-26,60,American Samoa,0
-2022-02-26,4,Arizona,72
-2022-02-26,6,California,34
-2022-02-26,8,Colorado,27
-2022-02-26,9,Connecticut,7
+2022-02-26,04,Arizona,72
+2022-02-26,06,California,34
+2022-02-26,08,Colorado,27
+2022-02-26,09,Connecticut,7
 2022-02-26,11,District of Columbia,0
 2022-02-26,10,Delaware,1
 2022-02-26,12,Florida,66
@@ -3319,14 +3319,14 @@ date,location,location_name,value
 2022-02-26,55,Wisconsin,27
 2022-02-26,54,West Virginia,17
 2022-02-26,56,Wyoming,5
-2022-03-05,2,Alaska,0
-2022-03-05,1,Alabama,35
-2022-03-05,5,Arkansas,58
+2022-03-05,02,Alaska,0
+2022-03-05,01,Alabama,35
+2022-03-05,05,Arkansas,58
 2022-03-05,60,American Samoa,0
-2022-03-05,4,Arizona,91
-2022-03-05,6,California,32
-2022-03-05,8,Colorado,25
-2022-03-05,9,Connecticut,7
+2022-03-05,04,Arizona,91
+2022-03-05,06,California,32
+2022-03-05,08,Colorado,25
+2022-03-05,09,Connecticut,7
 2022-03-05,11,District of Columbia,1
 2022-03-05,10,Delaware,1
 2022-03-05,12,Florida,72
@@ -3374,14 +3374,14 @@ date,location,location_name,value
 2022-03-05,55,Wisconsin,64
 2022-03-05,54,West Virginia,30
 2022-03-05,56,Wyoming,5
-2022-03-12,2,Alaska,2
-2022-03-12,1,Alabama,30
-2022-03-12,5,Arkansas,62
+2022-03-12,02,Alaska,2
+2022-03-12,01,Alabama,30
+2022-03-12,05,Arkansas,62
 2022-03-12,60,American Samoa,0
-2022-03-12,4,Arizona,85
-2022-03-12,6,California,45
-2022-03-12,8,Colorado,42
-2022-03-12,9,Connecticut,6
+2022-03-12,04,Arizona,85
+2022-03-12,06,California,45
+2022-03-12,08,Colorado,42
+2022-03-12,09,Connecticut,6
 2022-03-12,11,District of Columbia,4
 2022-03-12,10,Delaware,7
 2022-03-12,12,Florida,69
@@ -3429,14 +3429,14 @@ date,location,location_name,value
 2022-03-12,55,Wisconsin,46
 2022-03-12,54,West Virginia,27
 2022-03-12,56,Wyoming,4
-2022-03-19,2,Alaska,1
-2022-03-19,1,Alabama,30
-2022-03-19,5,Arkansas,67
+2022-03-19,02,Alaska,1
+2022-03-19,01,Alabama,30
+2022-03-19,05,Arkansas,67
 2022-03-19,60,American Samoa,0
-2022-03-19,4,Arizona,113
-2022-03-19,6,California,57
-2022-03-19,8,Colorado,60
-2022-03-19,9,Connecticut,18
+2022-03-19,04,Arizona,113
+2022-03-19,06,California,57
+2022-03-19,08,Colorado,60
+2022-03-19,09,Connecticut,18
 2022-03-19,11,District of Columbia,4
 2022-03-19,10,Delaware,6
 2022-03-19,12,Florida,73
@@ -3484,14 +3484,14 @@ date,location,location_name,value
 2022-03-19,55,Wisconsin,50
 2022-03-19,54,West Virginia,48
 2022-03-19,56,Wyoming,4
-2022-03-26,2,Alaska,3
-2022-03-26,1,Alabama,25
-2022-03-26,5,Arkansas,89
+2022-03-26,02,Alaska,3
+2022-03-26,01,Alabama,25
+2022-03-26,05,Arkansas,89
 2022-03-26,60,American Samoa,0
-2022-03-26,4,Arizona,131
-2022-03-26,6,California,63
-2022-03-26,8,Colorado,94
-2022-03-26,9,Connecticut,25
+2022-03-26,04,Arizona,131
+2022-03-26,06,California,63
+2022-03-26,08,Colorado,94
+2022-03-26,09,Connecticut,25
 2022-03-26,11,District of Columbia,2
 2022-03-26,10,Delaware,7
 2022-03-26,12,Florida,109
@@ -3539,14 +3539,14 @@ date,location,location_name,value
 2022-03-26,55,Wisconsin,58
 2022-03-26,54,West Virginia,21
 2022-03-26,56,Wyoming,6
-2022-04-02,2,Alaska,0
-2022-04-02,1,Alabama,32
-2022-04-02,5,Arkansas,59
+2022-04-02,02,Alaska,0
+2022-04-02,01,Alabama,32
+2022-04-02,05,Arkansas,59
 2022-04-02,60,American Samoa,0
-2022-04-02,4,Arizona,108
-2022-04-02,6,California,84
-2022-04-02,8,Colorado,117
-2022-04-02,9,Connecticut,30
+2022-04-02,04,Arizona,108
+2022-04-02,06,California,84
+2022-04-02,08,Colorado,117
+2022-04-02,09,Connecticut,30
 2022-04-02,11,District of Columbia,4
 2022-04-02,10,Delaware,4
 2022-04-02,12,Florida,96
@@ -3594,14 +3594,14 @@ date,location,location_name,value
 2022-04-02,55,Wisconsin,55
 2022-04-02,54,West Virginia,44
 2022-04-02,56,Wyoming,4
-2022-04-09,2,Alaska,2
-2022-04-09,1,Alabama,29
-2022-04-09,5,Arkansas,83
+2022-04-09,02,Alaska,2
+2022-04-09,01,Alabama,29
+2022-04-09,05,Arkansas,83
 2022-04-09,60,American Samoa,0
-2022-04-09,4,Arizona,112
-2022-04-09,6,California,106
-2022-04-09,8,Colorado,105
-2022-04-09,9,Connecticut,44
+2022-04-09,04,Arizona,112
+2022-04-09,06,California,106
+2022-04-09,08,Colorado,105
+2022-04-09,09,Connecticut,44
 2022-04-09,11,District of Columbia,2
 2022-04-09,10,Delaware,14
 2022-04-09,12,Florida,103
@@ -3649,14 +3649,14 @@ date,location,location_name,value
 2022-04-09,55,Wisconsin,50
 2022-04-09,54,West Virginia,42
 2022-04-09,56,Wyoming,8
-2022-04-16,2,Alaska,2
-2022-04-16,1,Alabama,19
-2022-04-16,5,Arkansas,50
+2022-04-16,02,Alaska,2
+2022-04-16,01,Alabama,19
+2022-04-16,05,Arkansas,50
 2022-04-16,60,American Samoa,0
-2022-04-16,4,Arizona,101
-2022-04-16,6,California,100
-2022-04-16,8,Colorado,146
-2022-04-16,9,Connecticut,51
+2022-04-16,04,Arizona,101
+2022-04-16,06,California,100
+2022-04-16,08,Colorado,146
+2022-04-16,09,Connecticut,51
 2022-04-16,11,District of Columbia,2
 2022-04-16,10,Delaware,41
 2022-04-16,12,Florida,165
@@ -3704,14 +3704,14 @@ date,location,location_name,value
 2022-04-16,55,Wisconsin,69
 2022-04-16,54,West Virginia,49
 2022-04-16,56,Wyoming,8
-2022-04-23,2,Alaska,1
-2022-04-23,1,Alabama,30
-2022-04-23,5,Arkansas,37
+2022-04-23,02,Alaska,1
+2022-04-23,01,Alabama,30
+2022-04-23,05,Arkansas,37
 2022-04-23,60,American Samoa,0
-2022-04-23,4,Arizona,147
-2022-04-23,6,California,165
-2022-04-23,8,Colorado,187
-2022-04-23,9,Connecticut,50
+2022-04-23,04,Arizona,147
+2022-04-23,06,California,165
+2022-04-23,08,Colorado,187
+2022-04-23,09,Connecticut,50
 2022-04-23,11,District of Columbia,1
 2022-04-23,10,Delaware,18
 2022-04-23,12,Florida,163
@@ -3759,14 +3759,14 @@ date,location,location_name,value
 2022-04-23,55,Wisconsin,51
 2022-04-23,54,West Virginia,41
 2022-04-23,56,Wyoming,1
-2022-04-30,2,Alaska,3
-2022-04-30,1,Alabama,13
-2022-04-30,5,Arkansas,32
+2022-04-30,02,Alaska,3
+2022-04-30,01,Alabama,13
+2022-04-30,05,Arkansas,32
 2022-04-30,60,American Samoa,0
-2022-04-30,4,Arizona,162
-2022-04-30,6,California,218
-2022-04-30,8,Colorado,168
-2022-04-30,9,Connecticut,57
+2022-04-30,04,Arizona,162
+2022-04-30,06,California,218
+2022-04-30,08,Colorado,168
+2022-04-30,09,Connecticut,57
 2022-04-30,11,District of Columbia,4
 2022-04-30,10,Delaware,6
 2022-04-30,12,Florida,179
@@ -3814,14 +3814,14 @@ date,location,location_name,value
 2022-04-30,55,Wisconsin,65
 2022-04-30,54,West Virginia,38
 2022-04-30,56,Wyoming,5
-2022-05-07,2,Alaska,4
-2022-05-07,1,Alabama,25
-2022-05-07,5,Arkansas,23
+2022-05-07,02,Alaska,4
+2022-05-07,01,Alabama,25
+2022-05-07,05,Arkansas,23
 2022-05-07,60,American Samoa,0
-2022-05-07,4,Arizona,176
-2022-05-07,6,California,202
-2022-05-07,8,Colorado,260
-2022-05-07,9,Connecticut,76
+2022-05-07,04,Arizona,176
+2022-05-07,06,California,202
+2022-05-07,08,Colorado,260
+2022-05-07,09,Connecticut,76
 2022-05-07,11,District of Columbia,1
 2022-05-07,10,Delaware,7
 2022-05-07,12,Florida,223
@@ -3869,14 +3869,14 @@ date,location,location_name,value
 2022-05-07,55,Wisconsin,46
 2022-05-07,54,West Virginia,23
 2022-05-07,56,Wyoming,6
-2022-05-14,2,Alaska,5
-2022-05-14,1,Alabama,15
-2022-05-14,5,Arkansas,22
+2022-05-14,02,Alaska,5
+2022-05-14,01,Alabama,15
+2022-05-14,05,Arkansas,22
 2022-05-14,60,American Samoa,0
-2022-05-14,4,Arizona,212
-2022-05-14,6,California,308
-2022-05-14,8,Colorado,171
-2022-05-14,9,Connecticut,79
+2022-05-14,04,Arizona,212
+2022-05-14,06,California,308
+2022-05-14,08,Colorado,171
+2022-05-14,09,Connecticut,79
 2022-05-14,11,District of Columbia,5
 2022-05-14,10,Delaware,4
 2022-05-14,12,Florida,306
@@ -3924,14 +3924,14 @@ date,location,location_name,value
 2022-05-14,55,Wisconsin,36
 2022-05-14,54,West Virginia,23
 2022-05-14,56,Wyoming,4
-2022-05-21,2,Alaska,17
-2022-05-21,1,Alabama,12
-2022-05-21,5,Arkansas,16
+2022-05-21,02,Alaska,17
+2022-05-21,01,Alabama,12
+2022-05-21,05,Arkansas,16
 2022-05-21,60,American Samoa,0
-2022-05-21,4,Arizona,237
-2022-05-21,6,California,386
-2022-05-21,8,Colorado,110
-2022-05-21,9,Connecticut,63
+2022-05-21,04,Arizona,237
+2022-05-21,06,California,386
+2022-05-21,08,Colorado,110
+2022-05-21,09,Connecticut,63
 2022-05-21,11,District of Columbia,4
 2022-05-21,10,Delaware,4
 2022-05-21,12,Florida,406
@@ -3979,14 +3979,14 @@ date,location,location_name,value
 2022-05-21,55,Wisconsin,28
 2022-05-21,54,West Virginia,14
 2022-05-21,56,Wyoming,4
-2022-05-28,2,Alaska,3
-2022-05-28,1,Alabama,22
-2022-05-28,5,Arkansas,16
+2022-05-28,02,Alaska,3
+2022-05-28,01,Alabama,22
+2022-05-28,05,Arkansas,16
 2022-05-28,60,American Samoa,0
-2022-05-28,4,Arizona,196
-2022-05-28,6,California,405
-2022-05-28,8,Colorado,91
-2022-05-28,9,Connecticut,34
+2022-05-28,04,Arizona,196
+2022-05-28,06,California,405
+2022-05-28,08,Colorado,91
+2022-05-28,09,Connecticut,34
 2022-05-28,11,District of Columbia,6
 2022-05-28,10,Delaware,4
 2022-05-28,12,Florida,542
@@ -4034,14 +4034,14 @@ date,location,location_name,value
 2022-05-28,55,Wisconsin,24
 2022-05-28,54,West Virginia,8
 2022-05-28,56,Wyoming,6
-2022-06-04,2,Alaska,2
-2022-06-04,1,Alabama,19
-2022-06-04,5,Arkansas,21
+2022-06-04,02,Alaska,2
+2022-06-04,01,Alabama,19
+2022-06-04,05,Arkansas,21
 2022-06-04,60,American Samoa,0
-2022-06-04,4,Arizona,204
-2022-06-04,6,California,453
-2022-06-04,8,Colorado,72
-2022-06-04,9,Connecticut,20
+2022-06-04,04,Arizona,204
+2022-06-04,06,California,453
+2022-06-04,08,Colorado,72
+2022-06-04,09,Connecticut,20
 2022-06-04,11,District of Columbia,4
 2022-06-04,10,Delaware,9
 2022-06-04,12,Florida,680
@@ -4089,14 +4089,14 @@ date,location,location_name,value
 2022-06-04,55,Wisconsin,14
 2022-06-04,54,West Virginia,6
 2022-06-04,56,Wyoming,9
-2022-06-11,2,Alaska,6
-2022-06-11,1,Alabama,18
-2022-06-11,5,Arkansas,20
+2022-06-11,02,Alaska,6
+2022-06-11,01,Alabama,18
+2022-06-11,05,Arkansas,20
 2022-06-11,60,American Samoa,0
-2022-06-11,4,Arizona,87
-2022-06-11,6,California,397
-2022-06-11,8,Colorado,33
-2022-06-11,9,Connecticut,37
+2022-06-11,04,Arizona,87
+2022-06-11,06,California,397
+2022-06-11,08,Colorado,33
+2022-06-11,09,Connecticut,37
 2022-06-11,11,District of Columbia,1
 2022-06-11,10,Delaware,5
 2022-06-11,12,Florida,556
@@ -4144,14 +4144,14 @@ date,location,location_name,value
 2022-06-11,55,Wisconsin,15
 2022-06-11,54,West Virginia,15
 2022-06-11,56,Wyoming,6
-2022-06-18,2,Alaska,1
-2022-06-18,1,Alabama,17
-2022-06-18,5,Arkansas,13
+2022-06-18,02,Alaska,1
+2022-06-18,01,Alabama,17
+2022-06-18,05,Arkansas,13
 2022-06-18,60,American Samoa,0
-2022-06-18,4,Arizona,52
-2022-06-18,6,California,304
-2022-06-18,8,Colorado,27
-2022-06-18,9,Connecticut,14
+2022-06-18,04,Arizona,52
+2022-06-18,06,California,304
+2022-06-18,08,Colorado,27
+2022-06-18,09,Connecticut,14
 2022-06-18,11,District of Columbia,2
 2022-06-18,10,Delaware,2
 2022-06-18,12,Florida,465
@@ -4199,14 +4199,14 @@ date,location,location_name,value
 2022-06-18,55,Wisconsin,8
 2022-06-18,54,West Virginia,7
 2022-06-18,56,Wyoming,3
-2022-06-25,2,Alaska,3
-2022-06-25,1,Alabama,14
-2022-06-25,5,Arkansas,16
+2022-06-25,02,Alaska,3
+2022-06-25,01,Alabama,14
+2022-06-25,05,Arkansas,16
 2022-06-25,60,American Samoa,0
-2022-06-25,4,Arizona,41
-2022-06-25,6,California,238
-2022-06-25,8,Colorado,9
-2022-06-25,9,Connecticut,4
+2022-06-25,04,Arizona,41
+2022-06-25,06,California,238
+2022-06-25,08,Colorado,9
+2022-06-25,09,Connecticut,4
 2022-06-25,11,District of Columbia,3
 2022-06-25,10,Delaware,4
 2022-06-25,12,Florida,321
@@ -4254,14 +4254,14 @@ date,location,location_name,value
 2022-06-25,55,Wisconsin,8
 2022-06-25,54,West Virginia,6
 2022-06-25,56,Wyoming,0
-2022-07-02,2,Alaska,2
-2022-07-02,1,Alabama,10
-2022-07-02,5,Arkansas,11
+2022-07-02,02,Alaska,2
+2022-07-02,01,Alabama,10
+2022-07-02,05,Arkansas,11
 2022-07-02,60,American Samoa,0
-2022-07-02,4,Arizona,13
-2022-07-02,6,California,192
-2022-07-02,8,Colorado,14
-2022-07-02,9,Connecticut,9
+2022-07-02,04,Arizona,13
+2022-07-02,06,California,192
+2022-07-02,08,Colorado,14
+2022-07-02,09,Connecticut,9
 2022-07-02,11,District of Columbia,1
 2022-07-02,10,Delaware,0
 2022-07-02,12,Florida,205
@@ -4309,14 +4309,14 @@ date,location,location_name,value
 2022-07-02,55,Wisconsin,7
 2022-07-02,54,West Virginia,4
 2022-07-02,56,Wyoming,2
-2022-07-09,2,Alaska,3
-2022-07-09,1,Alabama,24
-2022-07-09,5,Arkansas,6
+2022-07-09,02,Alaska,3
+2022-07-09,01,Alabama,24
+2022-07-09,05,Arkansas,6
 2022-07-09,60,American Samoa,0
-2022-07-09,4,Arizona,15
-2022-07-09,6,California,122
-2022-07-09,8,Colorado,11
-2022-07-09,9,Connecticut,4
+2022-07-09,04,Arizona,15
+2022-07-09,06,California,122
+2022-07-09,08,Colorado,11
+2022-07-09,09,Connecticut,4
 2022-07-09,11,District of Columbia,2
 2022-07-09,10,Delaware,1
 2022-07-09,12,Florida,177
@@ -4364,14 +4364,14 @@ date,location,location_name,value
 2022-07-09,55,Wisconsin,2
 2022-07-09,54,West Virginia,7
 2022-07-09,56,Wyoming,2
-2022-07-16,2,Alaska,0
-2022-07-16,1,Alabama,21
-2022-07-16,5,Arkansas,21
+2022-07-16,02,Alaska,0
+2022-07-16,01,Alabama,21
+2022-07-16,05,Arkansas,21
 2022-07-16,60,American Samoa,0
-2022-07-16,4,Arizona,13
-2022-07-16,6,California,102
-2022-07-16,8,Colorado,11
-2022-07-16,9,Connecticut,3
+2022-07-16,04,Arizona,13
+2022-07-16,06,California,102
+2022-07-16,08,Colorado,11
+2022-07-16,09,Connecticut,3
 2022-07-16,11,District of Columbia,1
 2022-07-16,10,Delaware,1
 2022-07-16,12,Florida,134
@@ -4419,14 +4419,14 @@ date,location,location_name,value
 2022-07-16,55,Wisconsin,1
 2022-07-16,54,West Virginia,8
 2022-07-16,56,Wyoming,2
-2022-07-23,2,Alaska,0
-2022-07-23,1,Alabama,10
-2022-07-23,5,Arkansas,14
+2022-07-23,02,Alaska,0
+2022-07-23,01,Alabama,10
+2022-07-23,05,Arkansas,14
 2022-07-23,60,American Samoa,0
-2022-07-23,4,Arizona,19
-2022-07-23,6,California,64
-2022-07-23,8,Colorado,8
-2022-07-23,9,Connecticut,6
+2022-07-23,04,Arizona,19
+2022-07-23,06,California,64
+2022-07-23,08,Colorado,8
+2022-07-23,09,Connecticut,6
 2022-07-23,11,District of Columbia,0
 2022-07-23,10,Delaware,0
 2022-07-23,12,Florida,97
@@ -4474,14 +4474,14 @@ date,location,location_name,value
 2022-07-23,55,Wisconsin,0
 2022-07-23,54,West Virginia,4
 2022-07-23,56,Wyoming,0
-2022-07-30,2,Alaska,0
-2022-07-30,1,Alabama,19
-2022-07-30,5,Arkansas,5
+2022-07-30,02,Alaska,0
+2022-07-30,01,Alabama,19
+2022-07-30,05,Arkansas,5
 2022-07-30,60,American Samoa,1
-2022-07-30,4,Arizona,21
-2022-07-30,6,California,46
-2022-07-30,8,Colorado,9
-2022-07-30,9,Connecticut,4
+2022-07-30,04,Arizona,21
+2022-07-30,06,California,46
+2022-07-30,08,Colorado,9
+2022-07-30,09,Connecticut,4
 2022-07-30,11,District of Columbia,0
 2022-07-30,10,Delaware,2
 2022-07-30,12,Florida,81
@@ -4529,14 +4529,14 @@ date,location,location_name,value
 2022-07-30,55,Wisconsin,3
 2022-07-30,54,West Virginia,1
 2022-07-30,56,Wyoming,2
-2022-08-06,2,Alaska,0
-2022-08-06,1,Alabama,12
-2022-08-06,5,Arkansas,8
+2022-08-06,02,Alaska,0
+2022-08-06,01,Alabama,12
+2022-08-06,05,Arkansas,8
 2022-08-06,60,American Samoa,0
-2022-08-06,4,Arizona,11
-2022-08-06,6,California,39
-2022-08-06,8,Colorado,14
-2022-08-06,9,Connecticut,3
+2022-08-06,04,Arizona,11
+2022-08-06,06,California,39
+2022-08-06,08,Colorado,14
+2022-08-06,09,Connecticut,3
 2022-08-06,11,District of Columbia,2
 2022-08-06,10,Delaware,0
 2022-08-06,12,Florida,87
@@ -4584,14 +4584,14 @@ date,location,location_name,value
 2022-08-06,55,Wisconsin,5
 2022-08-06,54,West Virginia,9
 2022-08-06,56,Wyoming,0
-2022-08-13,2,Alaska,1
-2022-08-13,1,Alabama,19
-2022-08-13,5,Arkansas,7
+2022-08-13,02,Alaska,1
+2022-08-13,01,Alabama,19
+2022-08-13,05,Arkansas,7
 2022-08-13,60,American Samoa,0
-2022-08-13,4,Arizona,11
-2022-08-13,6,California,38
-2022-08-13,8,Colorado,8
-2022-08-13,9,Connecticut,0
+2022-08-13,04,Arizona,11
+2022-08-13,06,California,38
+2022-08-13,08,Colorado,8
+2022-08-13,09,Connecticut,0
 2022-08-13,11,District of Columbia,0
 2022-08-13,10,Delaware,1
 2022-08-13,12,Florida,89
@@ -4639,14 +4639,14 @@ date,location,location_name,value
 2022-08-13,55,Wisconsin,1
 2022-08-13,54,West Virginia,1
 2022-08-13,56,Wyoming,0
-2022-08-20,2,Alaska,1
-2022-08-20,1,Alabama,11
-2022-08-20,5,Arkansas,4
+2022-08-20,02,Alaska,1
+2022-08-20,01,Alabama,11
+2022-08-20,05,Arkansas,4
 2022-08-20,60,American Samoa,0
-2022-08-20,4,Arizona,18
-2022-08-20,6,California,39
-2022-08-20,8,Colorado,11
-2022-08-20,9,Connecticut,2
+2022-08-20,04,Arizona,18
+2022-08-20,06,California,39
+2022-08-20,08,Colorado,11
+2022-08-20,09,Connecticut,2
 2022-08-20,11,District of Columbia,0
 2022-08-20,10,Delaware,1
 2022-08-20,12,Florida,67
@@ -4694,14 +4694,14 @@ date,location,location_name,value
 2022-08-20,55,Wisconsin,1
 2022-08-20,54,West Virginia,2
 2022-08-20,56,Wyoming,0
-2022-08-27,2,Alaska,1
-2022-08-27,1,Alabama,19
-2022-08-27,5,Arkansas,3
+2022-08-27,02,Alaska,1
+2022-08-27,01,Alabama,19
+2022-08-27,05,Arkansas,3
 2022-08-27,60,American Samoa,0
-2022-08-27,4,Arizona,16
-2022-08-27,6,California,33
-2022-08-27,8,Colorado,1
-2022-08-27,9,Connecticut,9
+2022-08-27,04,Arizona,16
+2022-08-27,06,California,33
+2022-08-27,08,Colorado,1
+2022-08-27,09,Connecticut,9
 2022-08-27,11,District of Columbia,1
 2022-08-27,10,Delaware,1
 2022-08-27,12,Florida,75
@@ -4749,14 +4749,14 @@ date,location,location_name,value
 2022-08-27,55,Wisconsin,3
 2022-08-27,54,West Virginia,4
 2022-08-27,56,Wyoming,0
-2022-09-03,2,Alaska,0
-2022-09-03,1,Alabama,21
-2022-09-03,5,Arkansas,8
+2022-09-03,02,Alaska,0
+2022-09-03,01,Alabama,21
+2022-09-03,05,Arkansas,8
 2022-09-03,60,American Samoa,0
-2022-09-03,4,Arizona,16
-2022-09-03,6,California,35
-2022-09-03,8,Colorado,1
-2022-09-03,9,Connecticut,4
+2022-09-03,04,Arizona,16
+2022-09-03,06,California,35
+2022-09-03,08,Colorado,1
+2022-09-03,09,Connecticut,4
 2022-09-03,11,District of Columbia,0
 2022-09-03,10,Delaware,3
 2022-09-03,12,Florida,70
@@ -4804,14 +4804,14 @@ date,location,location_name,value
 2022-09-03,55,Wisconsin,2
 2022-09-03,54,West Virginia,1
 2022-09-03,56,Wyoming,0
-2022-09-10,2,Alaska,5
-2022-09-10,1,Alabama,11
-2022-09-10,5,Arkansas,6
+2022-09-10,02,Alaska,5
+2022-09-10,01,Alabama,11
+2022-09-10,05,Arkansas,6
 2022-09-10,60,American Samoa,0
-2022-09-10,4,Arizona,5
-2022-09-10,6,California,29
-2022-09-10,8,Colorado,3
-2022-09-10,9,Connecticut,3
+2022-09-10,04,Arizona,5
+2022-09-10,06,California,29
+2022-09-10,08,Colorado,3
+2022-09-10,09,Connecticut,3
 2022-09-10,11,District of Columbia,0
 2022-09-10,10,Delaware,0
 2022-09-10,12,Florida,60
@@ -4859,14 +4859,14 @@ date,location,location_name,value
 2022-09-10,55,Wisconsin,0
 2022-09-10,54,West Virginia,0
 2022-09-10,56,Wyoming,0
-2022-09-17,2,Alaska,0
-2022-09-17,1,Alabama,17
-2022-09-17,5,Arkansas,4
+2022-09-17,02,Alaska,0
+2022-09-17,01,Alabama,17
+2022-09-17,05,Arkansas,4
 2022-09-17,60,American Samoa,0
-2022-09-17,4,Arizona,7
-2022-09-17,6,California,24
-2022-09-17,8,Colorado,3
-2022-09-17,9,Connecticut,4
+2022-09-17,04,Arizona,7
+2022-09-17,06,California,24
+2022-09-17,08,Colorado,3
+2022-09-17,09,Connecticut,4
 2022-09-17,11,District of Columbia,0
 2022-09-17,10,Delaware,2
 2022-09-17,12,Florida,78
@@ -4914,14 +4914,14 @@ date,location,location_name,value
 2022-09-17,55,Wisconsin,0
 2022-09-17,54,West Virginia,1
 2022-09-17,56,Wyoming,0
-2022-09-24,2,Alaska,0
-2022-09-24,1,Alabama,20
-2022-09-24,5,Arkansas,8
+2022-09-24,02,Alaska,0
+2022-09-24,01,Alabama,20
+2022-09-24,05,Arkansas,8
 2022-09-24,60,American Samoa,0
-2022-09-24,4,Arizona,9
-2022-09-24,6,California,35
-2022-09-24,8,Colorado,4
-2022-09-24,9,Connecticut,3
+2022-09-24,04,Arizona,9
+2022-09-24,06,California,35
+2022-09-24,08,Colorado,4
+2022-09-24,09,Connecticut,3
 2022-09-24,11,District of Columbia,1
 2022-09-24,10,Delaware,0
 2022-09-24,12,Florida,81
@@ -4969,14 +4969,14 @@ date,location,location_name,value
 2022-09-24,55,Wisconsin,4
 2022-09-24,54,West Virginia,1
 2022-09-24,56,Wyoming,0
-2022-10-01,2,Alaska,2
-2022-10-01,1,Alabama,24
-2022-10-01,5,Arkansas,10
+2022-10-01,02,Alaska,2
+2022-10-01,01,Alabama,24
+2022-10-01,05,Arkansas,10
 2022-10-01,60,American Samoa,0
-2022-10-01,4,Arizona,10
-2022-10-01,6,California,72
-2022-10-01,8,Colorado,3
-2022-10-01,9,Connecticut,2
+2022-10-01,04,Arizona,10
+2022-10-01,06,California,72
+2022-10-01,08,Colorado,3
+2022-10-01,09,Connecticut,2
 2022-10-01,11,District of Columbia,0
 2022-10-01,10,Delaware,0
 2022-10-01,12,Florida,77
@@ -5024,14 +5024,14 @@ date,location,location_name,value
 2022-10-01,55,Wisconsin,1
 2022-10-01,54,West Virginia,1
 2022-10-01,56,Wyoming,0
-2022-10-08,2,Alaska,3
-2022-10-08,1,Alabama,41
-2022-10-08,5,Arkansas,21
+2022-10-08,02,Alaska,3
+2022-10-08,01,Alabama,41
+2022-10-08,05,Arkansas,21
 2022-10-08,60,American Samoa,0
-2022-10-08,4,Arizona,18
-2022-10-08,6,California,93
-2022-10-08,8,Colorado,1
-2022-10-08,9,Connecticut,3
+2022-10-08,04,Arizona,18
+2022-10-08,06,California,93
+2022-10-08,08,Colorado,1
+2022-10-08,09,Connecticut,3
 2022-10-08,11,District of Columbia,1
 2022-10-08,10,Delaware,0
 2022-10-08,12,Florida,110
@@ -5079,14 +5079,14 @@ date,location,location_name,value
 2022-10-08,55,Wisconsin,1
 2022-10-08,54,West Virginia,5
 2022-10-08,56,Wyoming,1
-2022-10-15,2,Alaska,2
-2022-10-15,1,Alabama,86
-2022-10-15,5,Arkansas,40
+2022-10-15,02,Alaska,2
+2022-10-15,01,Alabama,86
+2022-10-15,05,Arkansas,40
 2022-10-15,60,American Samoa,0
-2022-10-15,4,Arizona,14
-2022-10-15,6,California,97
-2022-10-15,8,Colorado,5
-2022-10-15,9,Connecticut,9
+2022-10-15,04,Arizona,14
+2022-10-15,06,California,97
+2022-10-15,08,Colorado,5
+2022-10-15,09,Connecticut,9
 2022-10-15,11,District of Columbia,2
 2022-10-15,10,Delaware,0
 2022-10-15,12,Florida,105
@@ -5134,14 +5134,14 @@ date,location,location_name,value
 2022-10-15,55,Wisconsin,6
 2022-10-15,54,West Virginia,12
 2022-10-15,56,Wyoming,3
-2022-10-22,2,Alaska,3
-2022-10-22,1,Alabama,141
-2022-10-22,5,Arkansas,50
+2022-10-22,02,Alaska,3
+2022-10-22,01,Alabama,141
+2022-10-22,05,Arkansas,50
 2022-10-22,60,American Samoa,0
-2022-10-22,4,Arizona,22
-2022-10-22,6,California,124
-2022-10-22,8,Colorado,15
-2022-10-22,9,Connecticut,9
+2022-10-22,04,Arizona,22
+2022-10-22,06,California,124
+2022-10-22,08,Colorado,15
+2022-10-22,09,Connecticut,9
 2022-10-22,11,District of Columbia,8
 2022-10-22,10,Delaware,1
 2022-10-22,12,Florida,125
@@ -5189,14 +5189,14 @@ date,location,location_name,value
 2022-10-22,55,Wisconsin,8
 2022-10-22,54,West Virginia,23
 2022-10-22,56,Wyoming,1
-2022-10-29,2,Alaska,14
-2022-10-29,1,Alabama,262
-2022-10-29,5,Arkansas,84
+2022-10-29,02,Alaska,14
+2022-10-29,01,Alabama,262
+2022-10-29,05,Arkansas,84
 2022-10-29,60,American Samoa,0
-2022-10-29,4,Arizona,34
-2022-10-29,6,California,211
-2022-10-29,8,Colorado,32
-2022-10-29,9,Connecticut,37
+2022-10-29,04,Arizona,34
+2022-10-29,06,California,211
+2022-10-29,08,Colorado,32
+2022-10-29,09,Connecticut,37
 2022-10-29,11,District of Columbia,11
 2022-10-29,10,Delaware,4
 2022-10-29,12,Florida,260
@@ -5244,14 +5244,14 @@ date,location,location_name,value
 2022-10-29,55,Wisconsin,17
 2022-10-29,54,West Virginia,66
 2022-10-29,56,Wyoming,5
-2022-11-05,2,Alaska,10
-2022-11-05,1,Alabama,360
-2022-11-05,5,Arkansas,141
+2022-11-05,02,Alaska,10
+2022-11-05,01,Alabama,360
+2022-11-05,05,Arkansas,141
 2022-11-05,60,American Samoa,0
-2022-11-05,4,Arizona,84
-2022-11-05,6,California,456
-2022-11-05,8,Colorado,32
-2022-11-05,9,Connecticut,41
+2022-11-05,04,Arizona,84
+2022-11-05,06,California,456
+2022-11-05,08,Colorado,32
+2022-11-05,09,Connecticut,41
 2022-11-05,11,District of Columbia,36
 2022-11-05,10,Delaware,11
 2022-11-05,12,Florida,304
@@ -5299,14 +5299,14 @@ date,location,location_name,value
 2022-11-05,55,Wisconsin,34
 2022-11-05,54,West Virginia,84
 2022-11-05,56,Wyoming,8
-2022-11-12,2,Alaska,20
-2022-11-12,1,Alabama,303
-2022-11-12,5,Arkansas,212
+2022-11-12,02,Alaska,20
+2022-11-12,01,Alabama,303
+2022-11-12,05,Arkansas,212
 2022-11-12,60,American Samoa,0
-2022-11-12,4,Arizona,153
-2022-11-12,6,California,928
-2022-11-12,8,Colorado,61
-2022-11-12,9,Connecticut,58
+2022-11-12,04,Arizona,153
+2022-11-12,06,California,928
+2022-11-12,08,Colorado,61
+2022-11-12,09,Connecticut,58
 2022-11-12,11,District of Columbia,44
 2022-11-12,10,Delaware,15
 2022-11-12,12,Florida,490
@@ -5354,14 +5354,14 @@ date,location,location_name,value
 2022-11-12,55,Wisconsin,50
 2022-11-12,54,West Virginia,130
 2022-11-12,56,Wyoming,13
-2022-11-19,2,Alaska,38
-2022-11-19,1,Alabama,226
-2022-11-19,5,Arkansas,218
+2022-11-19,02,Alaska,38
+2022-11-19,01,Alabama,226
+2022-11-19,05,Arkansas,218
 2022-11-19,60,American Samoa,0
-2022-11-19,4,Arizona,339
-2022-11-19,6,California,1616
-2022-11-19,8,Colorado,114
-2022-11-19,9,Connecticut,104
+2022-11-19,04,Arizona,339
+2022-11-19,06,California,1616
+2022-11-19,08,Colorado,114
+2022-11-19,09,Connecticut,104
 2022-11-19,11,District of Columbia,35
 2022-11-19,10,Delaware,53
 2022-11-19,12,Florida,504
@@ -5378,7 +5378,7 @@ date,location,location_name,value
 2022-11-19,24,Maryland,218
 2022-11-19,23,Maine,14
 2022-11-19,26,Michigan,193
-2022-11-19,27,Minnesota,267
+2022-11-19,27,Minnesota,268
 2022-11-19,29,Missouri,221
 2022-11-19,28,Mississippi,243
 2022-11-19,30,Montana,12
@@ -5400,7 +5400,7 @@ date,location,location_name,value
 2022-11-19,46,South Dakota,28
 2022-11-19,47,Tennessee,300
 2022-11-19,48,Texas,1230
-2022-11-19,US,US,11426
+2022-11-19,US,US,11427
 2022-11-19,49,Utah,8
 2022-11-19,51,Virginia,273
 2022-11-19,78,Virgin Islands,0
@@ -5409,14 +5409,14 @@ date,location,location_name,value
 2022-11-19,55,Wisconsin,109
 2022-11-19,54,West Virginia,135
 2022-11-19,56,Wyoming,47
-2022-11-26,2,Alaska,66
-2022-11-26,1,Alabama,261
-2022-11-26,5,Arkansas,435
+2022-11-26,02,Alaska,66
+2022-11-26,01,Alabama,261
+2022-11-26,05,Arkansas,435
 2022-11-26,60,American Samoa,0
-2022-11-26,4,Arizona,612
-2022-11-26,6,California,2790
-2022-11-26,8,Colorado,157
-2022-11-26,9,Connecticut,199
+2022-11-26,04,Arizona,612
+2022-11-26,06,California,2790
+2022-11-26,08,Colorado,157
+2022-11-26,09,Connecticut,199
 2022-11-26,11,District of Columbia,70
 2022-11-26,10,Delaware,48
 2022-11-26,12,Florida,803
@@ -5424,7 +5424,7 @@ date,location,location_name,value
 2022-11-26,15,Hawaii,12
 2022-11-26,19,Iowa,139
 2022-11-26,16,Idaho,155
-2022-11-26,17,Illinois,913
+2022-11-26,17,Illinois,915
 2022-11-26,18,Indiana,505
 2022-11-26,20,Kansas,187
 2022-11-26,21,Kentucky,603
@@ -5455,32 +5455,32 @@ date,location,location_name,value
 2022-11-26,46,South Dakota,63
 2022-11-26,47,Tennessee,534
 2022-11-26,48,Texas,1929
-2022-11-26,US,US,19836
+2022-11-26,US,US,19837
 2022-11-26,49,Utah,29
 2022-11-26,51,Virginia,440
 2022-11-26,78,Virgin Islands,0
 2022-11-26,50,Vermont,15
 2022-11-26,53,Washington,605
-2022-11-26,55,Wisconsin,258
+2022-11-26,55,Wisconsin,257
 2022-11-26,54,West Virginia,209
 2022-11-26,56,Wyoming,45
-2022-12-03,2,Alaska,58
-2022-12-03,1,Alabama,351
-2022-12-03,5,Arkansas,471
+2022-12-03,02,Alaska,58
+2022-12-03,01,Alabama,351
+2022-12-03,05,Arkansas,471
 2022-12-03,60,American Samoa,0
-2022-12-03,4,Arizona,821
-2022-12-03,6,California,3149
-2022-12-03,8,Colorado,160
-2022-12-03,9,Connecticut,424
+2022-12-03,04,Arizona,821
+2022-12-03,06,California,3149
+2022-12-03,08,Colorado,160
+2022-12-03,09,Connecticut,424
 2022-12-03,11,District of Columbia,56
 2022-12-03,10,Delaware,79
-2022-12-03,12,Florida,893
+2022-12-03,12,Florida,892
 2022-12-03,13,Georgia,252
 2022-12-03,15,Hawaii,12
-2022-12-03,19,Iowa,200
+2022-12-03,19,Iowa,203
 2022-12-03,16,Idaho,189
-2022-12-03,17,Illinois,1034
-2022-12-03,18,Indiana,828
+2022-12-03,17,Illinois,1054
+2022-12-03,18,Indiana,826
 2022-12-03,20,Kansas,300
 2022-12-03,21,Kentucky,807
 2022-12-03,22,Louisiana,294
@@ -5488,18 +5488,18 @@ date,location,location_name,value
 2022-12-03,24,Maryland,405
 2022-12-03,23,Maine,110
 2022-12-03,26,Michigan,486
-2022-12-03,27,Minnesota,446
+2022-12-03,27,Minnesota,447
 2022-12-03,29,Missouri,858
 2022-12-03,28,Mississippi,258
 2022-12-03,30,Montana,71
-2022-12-03,37,North Carolina,610
+2022-12-03,37,North Carolina,609
 2022-12-03,38,North Dakota,49
 2022-12-03,31,Nebraska,100
 2022-12-03,33,New Hampshire,36
 2022-12-03,34,New Jersey,892
 2022-12-03,35,New Mexico,371
 2022-12-03,32,Nevada,397
-2022-12-03,36,New York,1354
+2022-12-03,36,New York,1348
 2022-12-03,39,Ohio,966
 2022-12-03,40,Oklahoma,826
 2022-12-03,41,Oregon,546
@@ -5510,9 +5510,9 @@ date,location,location_name,value
 2022-12-03,46,South Dakota,70
 2022-12-03,47,Tennessee,660
 2022-12-03,48,Texas,2139
-2022-12-03,US,US,26286
+2022-12-03,US,US,26274
 2022-12-03,49,Utah,36
-2022-12-03,51,Virginia,497
+2022-12-03,51,Virginia,471
 2022-12-03,78,Virgin Islands,0
 2022-12-03,50,Vermont,34
 2022-12-03,53,Washington,716
