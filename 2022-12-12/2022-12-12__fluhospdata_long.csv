@@ -1892,7 +1892,6 @@ date,location,location_name,value
 2021-09-04,02,Alaska,7
 2021-09-04,01,Alabama,33
 2021-09-04,05,Arkansas,5
-2021-09-04,60,American Samoa,0
 2021-09-04,04,Arizona,8
 2021-09-04,06,California,7
 2021-09-04,08,Colorado,5
@@ -1947,7 +1946,6 @@ date,location,location_name,value
 2021-09-11,02,Alaska,7
 2021-09-11,01,Alabama,27
 2021-09-11,05,Arkansas,2
-2021-09-11,60,American Samoa,0
 2021-09-11,04,Arizona,3
 2021-09-11,06,California,8
 2021-09-11,08,Colorado,1
@@ -2002,7 +2000,6 @@ date,location,location_name,value
 2021-09-18,02,Alaska,7
 2021-09-18,01,Alabama,22
 2021-09-18,05,Arkansas,5
-2021-09-18,60,American Samoa,0
 2021-09-18,04,Arizona,4
 2021-09-18,06,California,6
 2021-09-18,08,Colorado,4
@@ -2057,7 +2054,6 @@ date,location,location_name,value
 2021-09-25,02,Alaska,7
 2021-09-25,01,Alabama,19
 2021-09-25,05,Arkansas,4
-2021-09-25,60,American Samoa,0
 2021-09-25,04,Arizona,2
 2021-09-25,06,California,15
 2021-09-25,08,Colorado,3
@@ -2112,7 +2108,6 @@ date,location,location_name,value
 2021-10-02,02,Alaska,4
 2021-10-02,01,Alabama,11
 2021-10-02,05,Arkansas,3
-2021-10-02,60,American Samoa,0
 2021-10-02,04,Arizona,13
 2021-10-02,06,California,12
 2021-10-02,08,Colorado,0
@@ -2167,7 +2162,6 @@ date,location,location_name,value
 2021-10-09,02,Alaska,0
 2021-10-09,01,Alabama,18
 2021-10-09,05,Arkansas,4
-2021-10-09,60,American Samoa,0
 2021-10-09,04,Arizona,27
 2021-10-09,06,California,14
 2021-10-09,08,Colorado,6
@@ -2222,7 +2216,6 @@ date,location,location_name,value
 2021-10-16,02,Alaska,0
 2021-10-16,01,Alabama,11
 2021-10-16,05,Arkansas,8
-2021-10-16,60,American Samoa,0
 2021-10-16,04,Arizona,28
 2021-10-16,06,California,10
 2021-10-16,08,Colorado,1
@@ -2277,7 +2270,6 @@ date,location,location_name,value
 2021-10-23,02,Alaska,1
 2021-10-23,01,Alabama,11
 2021-10-23,05,Arkansas,7
-2021-10-23,60,American Samoa,0
 2021-10-23,04,Arizona,4
 2021-10-23,06,California,17
 2021-10-23,08,Colorado,4
@@ -2332,7 +2324,6 @@ date,location,location_name,value
 2021-10-30,02,Alaska,0
 2021-10-30,01,Alabama,14
 2021-10-30,05,Arkansas,3
-2021-10-30,60,American Samoa,0
 2021-10-30,04,Arizona,8
 2021-10-30,06,California,8
 2021-10-30,08,Colorado,4
@@ -2387,7 +2378,6 @@ date,location,location_name,value
 2021-11-06,02,Alaska,0
 2021-11-06,01,Alabama,8
 2021-11-06,05,Arkansas,10
-2021-11-06,60,American Samoa,0
 2021-11-06,04,Arizona,10
 2021-11-06,06,California,19
 2021-11-06,08,Colorado,6
@@ -2442,7 +2432,6 @@ date,location,location_name,value
 2021-11-13,02,Alaska,0
 2021-11-13,01,Alabama,23
 2021-11-13,05,Arkansas,11
-2021-11-13,60,American Samoa,0
 2021-11-13,04,Arizona,11
 2021-11-13,06,California,19
 2021-11-13,08,Colorado,4
@@ -2497,7 +2486,6 @@ date,location,location_name,value
 2021-11-20,02,Alaska,0
 2021-11-20,01,Alabama,29
 2021-11-20,05,Arkansas,9
-2021-11-20,60,American Samoa,0
 2021-11-20,04,Arizona,11
 2021-11-20,06,California,25
 2021-11-20,08,Colorado,4
@@ -2552,7 +2540,6 @@ date,location,location_name,value
 2021-11-27,02,Alaska,0
 2021-11-27,01,Alabama,19
 2021-11-27,05,Arkansas,10
-2021-11-27,60,American Samoa,0
 2021-11-27,04,Arizona,18
 2021-11-27,06,California,28
 2021-11-27,08,Colorado,4
@@ -2607,7 +2594,6 @@ date,location,location_name,value
 2021-12-04,02,Alaska,0
 2021-12-04,01,Alabama,32
 2021-12-04,05,Arkansas,15
-2021-12-04,60,American Samoa,0
 2021-12-04,04,Arizona,33
 2021-12-04,06,California,54
 2021-12-04,08,Colorado,18
@@ -2662,7 +2648,6 @@ date,location,location_name,value
 2021-12-11,02,Alaska,0
 2021-12-11,01,Alabama,23
 2021-12-11,05,Arkansas,11
-2021-12-11,60,American Samoa,0
 2021-12-11,04,Arizona,30
 2021-12-11,06,California,66
 2021-12-11,08,Colorado,30
@@ -2717,7 +2702,6 @@ date,location,location_name,value
 2021-12-18,02,Alaska,2
 2021-12-18,01,Alabama,34
 2021-12-18,05,Arkansas,14
-2021-12-18,60,American Samoa,0
 2021-12-18,04,Arizona,44
 2021-12-18,06,California,70
 2021-12-18,08,Colorado,41
@@ -2772,7 +2756,6 @@ date,location,location_name,value
 2021-12-25,02,Alaska,7
 2021-12-25,01,Alabama,20
 2021-12-25,05,Arkansas,15
-2021-12-25,60,American Samoa,0
 2021-12-25,04,Arizona,68
 2021-12-25,06,California,118
 2021-12-25,08,Colorado,53
@@ -2827,7 +2810,6 @@ date,location,location_name,value
 2022-01-01,02,Alaska,8
 2022-01-01,01,Alabama,60
 2022-01-01,05,Arkansas,33
-2022-01-01,60,American Samoa,0
 2022-01-01,04,Arizona,149
 2022-01-01,06,California,97
 2022-01-01,08,Colorado,63
@@ -2882,7 +2864,6 @@ date,location,location_name,value
 2022-01-08,02,Alaska,3
 2022-01-08,01,Alabama,25
 2022-01-08,05,Arkansas,42
-2022-01-08,60,American Samoa,0
 2022-01-08,04,Arizona,79
 2022-01-08,06,California,93
 2022-01-08,08,Colorado,27
@@ -2937,7 +2918,6 @@ date,location,location_name,value
 2022-01-15,02,Alaska,15
 2022-01-15,01,Alabama,33
 2022-01-15,05,Arkansas,34
-2022-01-15,60,American Samoa,0
 2022-01-15,04,Arizona,37
 2022-01-15,06,California,81
 2022-01-15,08,Colorado,29
@@ -2992,7 +2972,6 @@ date,location,location_name,value
 2022-01-22,02,Alaska,12
 2022-01-22,01,Alabama,22
 2022-01-22,05,Arkansas,21
-2022-01-22,60,American Samoa,0
 2022-01-22,04,Arizona,27
 2022-01-22,06,California,64
 2022-01-22,08,Colorado,9
@@ -3047,7 +3026,6 @@ date,location,location_name,value
 2022-01-29,02,Alaska,1
 2022-01-29,01,Alabama,18
 2022-01-29,05,Arkansas,18
-2022-01-29,60,American Samoa,0
 2022-01-29,04,Arizona,39
 2022-01-29,06,California,30
 2022-01-29,08,Colorado,11
@@ -3102,7 +3080,6 @@ date,location,location_name,value
 2022-02-05,02,Alaska,1
 2022-02-05,01,Alabama,17
 2022-02-05,05,Arkansas,23
-2022-02-05,60,American Samoa,0
 2022-02-05,04,Arizona,38
 2022-02-05,06,California,32
 2022-02-05,08,Colorado,20
@@ -3157,7 +3134,6 @@ date,location,location_name,value
 2022-02-12,02,Alaska,0
 2022-02-12,01,Alabama,12
 2022-02-12,05,Arkansas,24
-2022-02-12,60,American Samoa,0
 2022-02-12,04,Arizona,63
 2022-02-12,06,California,34
 2022-02-12,08,Colorado,27
@@ -3212,7 +3188,6 @@ date,location,location_name,value
 2022-02-19,02,Alaska,0
 2022-02-19,01,Alabama,20
 2022-02-19,05,Arkansas,32
-2022-02-19,60,American Samoa,0
 2022-02-19,04,Arizona,66
 2022-02-19,06,California,18
 2022-02-19,08,Colorado,22
@@ -3230,7 +3205,7 @@ date,location,location_name,value
 2022-02-19,21,Kentucky,20
 2022-02-19,22,Louisiana,40
 2022-02-19,25,Massachusetts,54
-2022-02-19,24,Maryland,15
+2022-02-19,24,Maryland,12
 2022-02-19,23,Maine,4
 2022-02-19,26,Michigan,52
 2022-02-19,27,Minnesota,28
@@ -3255,7 +3230,7 @@ date,location,location_name,value
 2022-02-19,46,South Dakota,14
 2022-02-19,47,Tennessee,29
 2022-02-19,48,Texas,284
-2022-02-19,US,US,1574
+2022-02-19,US,US,1571
 2022-02-19,49,Utah,6
 2022-02-19,51,Virginia,37
 2022-02-19,78,Virgin Islands,0
@@ -3267,7 +3242,6 @@ date,location,location_name,value
 2022-02-26,02,Alaska,1
 2022-02-26,01,Alabama,14
 2022-02-26,05,Arkansas,42
-2022-02-26,60,American Samoa,0
 2022-02-26,04,Arizona,72
 2022-02-26,06,California,34
 2022-02-26,08,Colorado,27
@@ -3322,7 +3296,6 @@ date,location,location_name,value
 2022-03-05,02,Alaska,0
 2022-03-05,01,Alabama,35
 2022-03-05,05,Arkansas,58
-2022-03-05,60,American Samoa,0
 2022-03-05,04,Arizona,91
 2022-03-05,06,California,32
 2022-03-05,08,Colorado,25
@@ -3377,7 +3350,6 @@ date,location,location_name,value
 2022-03-12,02,Alaska,2
 2022-03-12,01,Alabama,30
 2022-03-12,05,Arkansas,62
-2022-03-12,60,American Samoa,0
 2022-03-12,04,Arizona,85
 2022-03-12,06,California,45
 2022-03-12,08,Colorado,42
@@ -3432,7 +3404,6 @@ date,location,location_name,value
 2022-03-19,02,Alaska,1
 2022-03-19,01,Alabama,30
 2022-03-19,05,Arkansas,67
-2022-03-19,60,American Samoa,0
 2022-03-19,04,Arizona,113
 2022-03-19,06,California,57
 2022-03-19,08,Colorado,60
@@ -3487,7 +3458,6 @@ date,location,location_name,value
 2022-03-26,02,Alaska,3
 2022-03-26,01,Alabama,25
 2022-03-26,05,Arkansas,89
-2022-03-26,60,American Samoa,0
 2022-03-26,04,Arizona,131
 2022-03-26,06,California,63
 2022-03-26,08,Colorado,94
@@ -3542,7 +3512,6 @@ date,location,location_name,value
 2022-04-02,02,Alaska,0
 2022-04-02,01,Alabama,32
 2022-04-02,05,Arkansas,59
-2022-04-02,60,American Samoa,0
 2022-04-02,04,Arizona,108
 2022-04-02,06,California,84
 2022-04-02,08,Colorado,117
@@ -3597,7 +3566,6 @@ date,location,location_name,value
 2022-04-09,02,Alaska,2
 2022-04-09,01,Alabama,29
 2022-04-09,05,Arkansas,83
-2022-04-09,60,American Samoa,0
 2022-04-09,04,Arizona,112
 2022-04-09,06,California,106
 2022-04-09,08,Colorado,105
@@ -3652,7 +3620,6 @@ date,location,location_name,value
 2022-04-16,02,Alaska,2
 2022-04-16,01,Alabama,19
 2022-04-16,05,Arkansas,50
-2022-04-16,60,American Samoa,0
 2022-04-16,04,Arizona,101
 2022-04-16,06,California,100
 2022-04-16,08,Colorado,146
@@ -3707,7 +3674,6 @@ date,location,location_name,value
 2022-04-23,02,Alaska,1
 2022-04-23,01,Alabama,30
 2022-04-23,05,Arkansas,37
-2022-04-23,60,American Samoa,0
 2022-04-23,04,Arizona,147
 2022-04-23,06,California,165
 2022-04-23,08,Colorado,187
@@ -3762,7 +3728,6 @@ date,location,location_name,value
 2022-04-30,02,Alaska,3
 2022-04-30,01,Alabama,13
 2022-04-30,05,Arkansas,32
-2022-04-30,60,American Samoa,0
 2022-04-30,04,Arizona,162
 2022-04-30,06,California,218
 2022-04-30,08,Colorado,168
@@ -3817,7 +3782,6 @@ date,location,location_name,value
 2022-05-07,02,Alaska,4
 2022-05-07,01,Alabama,25
 2022-05-07,05,Arkansas,23
-2022-05-07,60,American Samoa,0
 2022-05-07,04,Arizona,176
 2022-05-07,06,California,202
 2022-05-07,08,Colorado,260
@@ -3872,7 +3836,6 @@ date,location,location_name,value
 2022-05-14,02,Alaska,5
 2022-05-14,01,Alabama,15
 2022-05-14,05,Arkansas,22
-2022-05-14,60,American Samoa,0
 2022-05-14,04,Arizona,212
 2022-05-14,06,California,308
 2022-05-14,08,Colorado,171
@@ -3927,7 +3890,6 @@ date,location,location_name,value
 2022-05-21,02,Alaska,17
 2022-05-21,01,Alabama,12
 2022-05-21,05,Arkansas,16
-2022-05-21,60,American Samoa,0
 2022-05-21,04,Arizona,237
 2022-05-21,06,California,386
 2022-05-21,08,Colorado,110
@@ -3982,7 +3944,6 @@ date,location,location_name,value
 2022-05-28,02,Alaska,3
 2022-05-28,01,Alabama,22
 2022-05-28,05,Arkansas,16
-2022-05-28,60,American Samoa,0
 2022-05-28,04,Arizona,196
 2022-05-28,06,California,405
 2022-05-28,08,Colorado,91
@@ -4037,7 +3998,6 @@ date,location,location_name,value
 2022-06-04,02,Alaska,2
 2022-06-04,01,Alabama,19
 2022-06-04,05,Arkansas,21
-2022-06-04,60,American Samoa,0
 2022-06-04,04,Arizona,204
 2022-06-04,06,California,453
 2022-06-04,08,Colorado,72
@@ -4092,7 +4052,6 @@ date,location,location_name,value
 2022-06-11,02,Alaska,6
 2022-06-11,01,Alabama,18
 2022-06-11,05,Arkansas,20
-2022-06-11,60,American Samoa,0
 2022-06-11,04,Arizona,87
 2022-06-11,06,California,397
 2022-06-11,08,Colorado,33
@@ -4147,7 +4106,6 @@ date,location,location_name,value
 2022-06-18,02,Alaska,1
 2022-06-18,01,Alabama,17
 2022-06-18,05,Arkansas,13
-2022-06-18,60,American Samoa,0
 2022-06-18,04,Arizona,52
 2022-06-18,06,California,304
 2022-06-18,08,Colorado,27
@@ -4202,7 +4160,6 @@ date,location,location_name,value
 2022-06-25,02,Alaska,3
 2022-06-25,01,Alabama,14
 2022-06-25,05,Arkansas,16
-2022-06-25,60,American Samoa,0
 2022-06-25,04,Arizona,41
 2022-06-25,06,California,238
 2022-06-25,08,Colorado,9
@@ -4257,7 +4214,6 @@ date,location,location_name,value
 2022-07-02,02,Alaska,2
 2022-07-02,01,Alabama,10
 2022-07-02,05,Arkansas,11
-2022-07-02,60,American Samoa,0
 2022-07-02,04,Arizona,13
 2022-07-02,06,California,192
 2022-07-02,08,Colorado,14
@@ -4312,7 +4268,6 @@ date,location,location_name,value
 2022-07-09,02,Alaska,3
 2022-07-09,01,Alabama,24
 2022-07-09,05,Arkansas,6
-2022-07-09,60,American Samoa,0
 2022-07-09,04,Arizona,15
 2022-07-09,06,California,122
 2022-07-09,08,Colorado,11
@@ -4367,7 +4322,6 @@ date,location,location_name,value
 2022-07-16,02,Alaska,0
 2022-07-16,01,Alabama,21
 2022-07-16,05,Arkansas,21
-2022-07-16,60,American Samoa,0
 2022-07-16,04,Arizona,13
 2022-07-16,06,California,102
 2022-07-16,08,Colorado,11
@@ -4422,7 +4376,6 @@ date,location,location_name,value
 2022-07-23,02,Alaska,0
 2022-07-23,01,Alabama,10
 2022-07-23,05,Arkansas,14
-2022-07-23,60,American Samoa,0
 2022-07-23,04,Arizona,19
 2022-07-23,06,California,64
 2022-07-23,08,Colorado,8
@@ -4477,7 +4430,6 @@ date,location,location_name,value
 2022-07-30,02,Alaska,0
 2022-07-30,01,Alabama,19
 2022-07-30,05,Arkansas,5
-2022-07-30,60,American Samoa,1
 2022-07-30,04,Arizona,21
 2022-07-30,06,California,46
 2022-07-30,08,Colorado,9
@@ -4532,7 +4484,6 @@ date,location,location_name,value
 2022-08-06,02,Alaska,0
 2022-08-06,01,Alabama,12
 2022-08-06,05,Arkansas,8
-2022-08-06,60,American Samoa,0
 2022-08-06,04,Arizona,11
 2022-08-06,06,California,39
 2022-08-06,08,Colorado,14
@@ -4587,7 +4538,6 @@ date,location,location_name,value
 2022-08-13,02,Alaska,1
 2022-08-13,01,Alabama,19
 2022-08-13,05,Arkansas,7
-2022-08-13,60,American Samoa,0
 2022-08-13,04,Arizona,11
 2022-08-13,06,California,38
 2022-08-13,08,Colorado,8
@@ -4642,7 +4592,6 @@ date,location,location_name,value
 2022-08-20,02,Alaska,1
 2022-08-20,01,Alabama,11
 2022-08-20,05,Arkansas,4
-2022-08-20,60,American Samoa,0
 2022-08-20,04,Arizona,18
 2022-08-20,06,California,39
 2022-08-20,08,Colorado,11
@@ -4697,7 +4646,6 @@ date,location,location_name,value
 2022-08-27,02,Alaska,1
 2022-08-27,01,Alabama,19
 2022-08-27,05,Arkansas,3
-2022-08-27,60,American Samoa,0
 2022-08-27,04,Arizona,16
 2022-08-27,06,California,33
 2022-08-27,08,Colorado,1
@@ -4752,7 +4700,6 @@ date,location,location_name,value
 2022-09-03,02,Alaska,0
 2022-09-03,01,Alabama,21
 2022-09-03,05,Arkansas,8
-2022-09-03,60,American Samoa,0
 2022-09-03,04,Arizona,16
 2022-09-03,06,California,35
 2022-09-03,08,Colorado,1
@@ -4807,7 +4754,6 @@ date,location,location_name,value
 2022-09-10,02,Alaska,5
 2022-09-10,01,Alabama,11
 2022-09-10,05,Arkansas,6
-2022-09-10,60,American Samoa,0
 2022-09-10,04,Arizona,5
 2022-09-10,06,California,29
 2022-09-10,08,Colorado,3
@@ -4862,7 +4808,6 @@ date,location,location_name,value
 2022-09-17,02,Alaska,0
 2022-09-17,01,Alabama,17
 2022-09-17,05,Arkansas,4
-2022-09-17,60,American Samoa,0
 2022-09-17,04,Arizona,7
 2022-09-17,06,California,24
 2022-09-17,08,Colorado,3
@@ -4917,7 +4862,6 @@ date,location,location_name,value
 2022-09-24,02,Alaska,0
 2022-09-24,01,Alabama,20
 2022-09-24,05,Arkansas,8
-2022-09-24,60,American Samoa,0
 2022-09-24,04,Arizona,9
 2022-09-24,06,California,35
 2022-09-24,08,Colorado,4
@@ -4972,7 +4916,6 @@ date,location,location_name,value
 2022-10-01,02,Alaska,2
 2022-10-01,01,Alabama,24
 2022-10-01,05,Arkansas,10
-2022-10-01,60,American Samoa,0
 2022-10-01,04,Arizona,10
 2022-10-01,06,California,72
 2022-10-01,08,Colorado,3
@@ -5027,7 +4970,6 @@ date,location,location_name,value
 2022-10-08,02,Alaska,3
 2022-10-08,01,Alabama,41
 2022-10-08,05,Arkansas,21
-2022-10-08,60,American Samoa,0
 2022-10-08,04,Arizona,18
 2022-10-08,06,California,93
 2022-10-08,08,Colorado,1
@@ -5082,7 +5024,6 @@ date,location,location_name,value
 2022-10-15,02,Alaska,2
 2022-10-15,01,Alabama,86
 2022-10-15,05,Arkansas,40
-2022-10-15,60,American Samoa,0
 2022-10-15,04,Arizona,14
 2022-10-15,06,California,97
 2022-10-15,08,Colorado,5
@@ -5137,7 +5078,6 @@ date,location,location_name,value
 2022-10-22,02,Alaska,3
 2022-10-22,01,Alabama,141
 2022-10-22,05,Arkansas,50
-2022-10-22,60,American Samoa,0
 2022-10-22,04,Arizona,22
 2022-10-22,06,California,124
 2022-10-22,08,Colorado,15
@@ -5192,7 +5132,6 @@ date,location,location_name,value
 2022-10-29,02,Alaska,14
 2022-10-29,01,Alabama,262
 2022-10-29,05,Arkansas,84
-2022-10-29,60,American Samoa,0
 2022-10-29,04,Arizona,34
 2022-10-29,06,California,211
 2022-10-29,08,Colorado,32
@@ -5247,7 +5186,6 @@ date,location,location_name,value
 2022-11-05,02,Alaska,10
 2022-11-05,01,Alabama,360
 2022-11-05,05,Arkansas,141
-2022-11-05,60,American Samoa,0
 2022-11-05,04,Arizona,84
 2022-11-05,06,California,456
 2022-11-05,08,Colorado,32
@@ -5302,7 +5240,6 @@ date,location,location_name,value
 2022-11-12,02,Alaska,20
 2022-11-12,01,Alabama,303
 2022-11-12,05,Arkansas,212
-2022-11-12,60,American Samoa,0
 2022-11-12,04,Arizona,153
 2022-11-12,06,California,928
 2022-11-12,08,Colorado,61
@@ -5357,7 +5294,6 @@ date,location,location_name,value
 2022-11-19,02,Alaska,38
 2022-11-19,01,Alabama,226
 2022-11-19,05,Arkansas,218
-2022-11-19,60,American Samoa,0
 2022-11-19,04,Arizona,339
 2022-11-19,06,California,1616
 2022-11-19,08,Colorado,114
@@ -5412,7 +5348,6 @@ date,location,location_name,value
 2022-11-26,02,Alaska,66
 2022-11-26,01,Alabama,261
 2022-11-26,05,Arkansas,435
-2022-11-26,60,American Samoa,0
 2022-11-26,04,Arizona,612
 2022-11-26,06,California,2790
 2022-11-26,08,Colorado,157
@@ -5467,9 +5402,8 @@ date,location,location_name,value
 2022-12-03,02,Alaska,58
 2022-12-03,01,Alabama,351
 2022-12-03,05,Arkansas,469
-2022-12-03,60,American Samoa,0
 2022-12-03,04,Arizona,821
-2022-12-03,06,California,3138
+2022-12-03,06,California,3140
 2022-12-03,08,Colorado,160
 2022-12-03,09,Connecticut,424
 2022-12-03,11,District of Columbia,56
@@ -5510,7 +5444,7 @@ date,location,location_name,value
 2022-12-03,46,South Dakota,70
 2022-12-03,47,Tennessee,660
 2022-12-03,48,Texas,2139
-2022-12-03,US,US,26255
+2022-12-03,US,US,26257
 2022-12-03,49,Utah,36
 2022-12-03,51,Virginia,471
 2022-12-03,78,Virgin Islands,0
@@ -5519,58 +5453,57 @@ date,location,location_name,value
 2022-12-03,55,Wisconsin,474
 2022-12-03,54,West Virginia,320
 2022-12-03,56,Wyoming,71
-2022-12-10,02,Alaska,84
+2022-12-10,02,Alaska,83
 2022-12-10,01,Alabama,233
 2022-12-10,05,Arkansas,313
-2022-12-10,60,American Samoa,0
-2022-12-10,04,Arizona,786
-2022-12-10,06,California,2303
-2022-12-10,08,Colorado,296
+2022-12-10,04,Arizona,781
+2022-12-10,06,California,2299
+2022-12-10,08,Colorado,252
 2022-12-10,09,Connecticut,469
-2022-12-10,11,District of Columbia,42
+2022-12-10,11,District of Columbia,43
 2022-12-10,10,Delaware,39
-2022-12-10,12,Florida,797
-2022-12-10,13,Georgia,181
-2022-12-10,15,Hawaii,11
-2022-12-10,19,Iowa,238
-2022-12-10,16,Idaho,141
-2022-12-10,17,Illinois,923
-2022-12-10,18,Indiana,901
-2022-12-10,20,Kansas,258
+2022-12-10,12,Florida,811
+2022-12-10,13,Georgia,187
+2022-12-10,15,Hawaii,10
+2022-12-10,19,Iowa,239
+2022-12-10,16,Idaho,140
+2022-12-10,17,Illinois,921
+2022-12-10,18,Indiana,874
+2022-12-10,20,Kansas,262
 2022-12-10,21,Kentucky,708
-2022-12-10,22,Louisiana,268
+2022-12-10,22,Louisiana,253
 2022-12-10,25,Massachusetts,582
-2022-12-10,24,Maryland,311
-2022-12-10,23,Maine,123
-2022-12-10,26,Michigan,638
+2022-12-10,24,Maryland,305
+2022-12-10,23,Maine,118
+2022-12-10,26,Michigan,603
 2022-12-10,27,Minnesota,325
-2022-12-10,29,Missouri,876
-2022-12-10,28,Mississippi,178
-2022-12-10,30,Montana,126
-2022-12-10,37,North Carolina,467
+2022-12-10,29,Missouri,868
+2022-12-10,28,Mississippi,173
+2022-12-10,30,Montana,112
+2022-12-10,37,North Carolina,468
 2022-12-10,38,North Dakota,55
-2022-12-10,31,Nebraska,122
-2022-12-10,33,New Hampshire,74
-2022-12-10,34,New Jersey,723
-2022-12-10,35,New Mexico,445
+2022-12-10,31,Nebraska,129
+2022-12-10,33,New Hampshire,73
+2022-12-10,34,New Jersey,712
+2022-12-10,35,New Mexico,421
 2022-12-10,32,Nevada,375
-2022-12-10,36,New York,1572
-2022-12-10,39,Ohio,924
-2022-12-10,40,Oklahoma,887
-2022-12-10,41,Oregon,647
-2022-12-10,42,Pennsylvania,1206
-2022-12-10,72,Puerto Rico,103
+2022-12-10,36,New York,1527
+2022-12-10,39,Ohio,938
+2022-12-10,40,Oklahoma,899
+2022-12-10,41,Oregon,644
+2022-12-10,42,Pennsylvania,1226
+2022-12-10,72,Puerto Rico,108
 2022-12-10,44,Rhode Island,51
-2022-12-10,45,South Carolina,161
-2022-12-10,46,South Dakota,103
-2022-12-10,47,Tennessee,484
-2022-12-10,48,Texas,1860
-2022-12-10,US,US,24254
-2022-12-10,49,Utah,61
-2022-12-10,51,Virginia,335
+2022-12-10,45,South Carolina,157
+2022-12-10,46,South Dakota,102
+2022-12-10,47,Tennessee,474
+2022-12-10,48,Texas,1791
+2022-12-10,US,US,23951
+2022-12-10,49,Utah,62
+2022-12-10,51,Virginia,341
 2022-12-10,78,Virgin Islands,0
-2022-12-10,50,Vermont,52
-2022-12-10,53,Washington,625
-2022-12-10,55,Wisconsin,494
+2022-12-10,50,Vermont,51
+2022-12-10,53,Washington,592
+2022-12-10,55,Wisconsin,469
 2022-12-10,54,West Virginia,237
-2022-12-10,56,Wyoming,41
+2022-12-10,56,Wyoming,46
